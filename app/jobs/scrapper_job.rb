@@ -1,9 +1,16 @@
 class ScrapperJob < ApplicationJob
 
   def perform
-    url = 'https://nofluffjobs.com/pl/praca-it/warszawa/javascript?page=1'
-    parsed_page = Nokogiri::HTML(HTTParty.get(url))
+    url = 'https://nofluffjobs.com/pl/praca-it/warszawa/javascript'
+    first_page = Nokogiri::HTML(HTTParty.get(url))
+    (1..total_pages(first_page)).each do |page|
+      page_url = "#{url}?page=#{page}"
+      scrap_page(Nokogiri::HTML(HTTParty.get(page_url)))
+    end
+  end
 
+
+  def scrap_page(parsed_page)
     job_listing = parsed_page.css('.posting-list-item')
     job_listing.each do |job_listing|
       job = {
@@ -11,9 +18,9 @@ class ScrapperJob < ApplicationJob
         company: job_listing.css('.posting-title__company').text.gsub(' @ ', '').strip,
         salary: mean_salary(job_listing.css('.salary').text)
       }
+      puts job
     end
   end
-
 
   def mean_salary(inverval_salary)
     salaries = inverval_salary.gsub('PLN', '').gsub(' ', '').strip.split('-')
