@@ -27,7 +27,7 @@ class ScrapperJob < ApplicationJob
         city: city,
         salary: mean_salary(job_listing.css('.salary').text)
       }
-      puts job
+      JobOffer.create(job)
     end
   end
 
