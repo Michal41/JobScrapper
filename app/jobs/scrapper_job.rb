@@ -1,10 +1,8 @@
 class ScrapperJob < ApplicationJob
 
-  CITIES = %w(warszawa krakow wroclaw poznan trojmiasto katowice
-              slask lodz bialystok gdynia lublin rzeszow
-              bydgoszcz gliwice gliwice szczecin sopot)
+
   def perform
-    CITIES.each do |city|
+    JobOffer::CITIES.each do |city|
       scrap_city(city)
     end
   end
