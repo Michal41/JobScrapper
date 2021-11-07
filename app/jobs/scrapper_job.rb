@@ -1,21 +1,30 @@
 class ScrapperJob < ApplicationJob
 
+  CITIES = %w(warszawa krakow wroclaw poznan trojmiasto katowice
+              slask lodz bialystok gdynia lublin rzeszow
+              bydgoszcz gliwice gliwice szczecin sopot)
   def perform
-    url = 'https://nofluffjobs.com/pl/praca-it/warszawa/javascript'
-    first_page = Nokogiri::HTML(HTTParty.get(url))
-    (1..total_pages(first_page)).each do |page|
-      page_url = "#{url}?page=#{page}"
-      scrap_page(Nokogiri::HTML(HTTParty.get(page_url)))
+    CITIES.each do |city|
+      scrap_city(city)
     end
   end
 
+  def scrap_city(city)
+    url = "https://nofluffjobs.com/pl/praca-it/#{city}/javascript"
+    first_page = Nokogiri::HTML(HTTParty.get(url))
+    (1..total_pages(first_page)).each do |page|
+      page_url = "#{url}?page=#{page}"
+      scrap_page(Nokogiri::HTML(HTTParty.get(page_url)), city)
+    end
+  end
 
-  def scrap_page(parsed_page)
+  def scrap_page(parsed_page, city)
     job_listing = parsed_page.css('.posting-list-item')
     job_listing.each do |job_listing|
       job = {
         title: job_listing.css('.posting-title__position').text.strip,
         company: job_listing.css('.posting-title__company').text.gsub(' @ ', '').strip,
+        city: city,
         salary: mean_salary(job_listing.css('.salary').text)
       }
       puts job
