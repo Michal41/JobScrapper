@@ -1,6 +1,5 @@
 class ScrapperJob < ApplicationJob
 
-
   def perform
     JobOffer::CITIES.each do |city|
       scrap_city(city)
@@ -25,6 +24,7 @@ class ScrapperJob < ApplicationJob
         city: city,
         salary: mean_salary(job_listing.css('.salary').text)
       }
+      puts job
       JobOffer.create(job)
     end
   end
@@ -35,6 +35,7 @@ class ScrapperJob < ApplicationJob
   end
 
   def total_pages(parsed_page)
+    return 0 if parsed_page.css('.page-link')[-2].nil?
     parsed_page.css('.page-link')[-2].text.strip.to_i
   end
 
