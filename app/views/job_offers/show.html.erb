@@ -1,4 +1,8 @@
-<h2 style="text-align: center">based on current job offers for javascript developer in Poland the most attraction job offers are in:</h2>
-<h1 style="text-align: center"><%= @hihgest_salary[:city] %></h1>
-<h2 style="text-align: center">The average salary for JS developer is </h2>
-<h1 style="text-align: center"><%= @hihgest_salary[:salary] %></h1>
+
+
+
+<div class="mean-section">
+  <h2>Based on current job offers for javascript developer in Poland the most attraction job offers are in:</h2>
+  <h1><%= @hihgest_salary[:city] %></h1>
+  <h2>The average salary for JS developer in <%= @hihgest_salary[:city] %> is <%= @hihgest_salary[:salary] %>,00 PLN </h2>
+</div>
