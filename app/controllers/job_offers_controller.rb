@@ -1,6 +1,6 @@
 class JobOffersController < ApplicationController
 
-  def show
+  def index
     @hihgest_salary = JobOffers::Show.call().result
   end
 end
