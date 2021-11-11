@@ -7,16 +7,17 @@
   <h2>The average salary for JS developer in <%= @offers[:city] %> is <%= @offers[:salary] %>,00 PLN </h2>
 </div>
 
-
 <div class="offers-list-container">
-  <div class="input-group search-container">
-    <input type="text" class="form-control" placeholder="Search this blog">
-    <div class="input-group-append">
-      <button class="btn btn-secondary" type="button">
-        <i class="fa fa-search"></i>
-      </button>
+  <%= form_tag(root_path, method: :get) do %>
+    <div class="input-group search-container">
+      <%= text_field_tag(:query, params[:query], class: 'form-control', placeholder: 'Search JobOffer')%>
+      <div class="input-group-append">
+        <button class="btn btn-secondary" type="submit">
+          <i class="fa fa-search"></i>
+        </button>
+      </div>
     </div>
-  </div>
+  <% end %>
   <table class="table">
     <thead>
       <tr>
