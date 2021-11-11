@@ -1,8 +1,8 @@
 module JobOffers
-  class Show < ApplicationService
+  class Index < ApplicationService
+    attributes :query
     def call
-      todays_offers = JobOffer.where(created_at: Time.zone.now.beginning_of_day..Time.zone.now.end_of_day)
-      highest_mean_salary.merge(offers: todays_offers)
+      highest_mean_salary.merge(offers: offers)
     end
 
     private
@@ -24,6 +24,11 @@ module JobOffers
     def mean_city_salary(job_offers)
       return 0 if job_offers.empty?
       (job_offers.pluck(:salary).sum / job_offers.pluck.count.to_f).to_i
+    end
+
+    def offers
+      todays_offers = JobOffer.where(created_at: Time.zone.now.beginning_of_day..Time.zone.now.end_of_day)
+      todays_offers.ransack(company_or_title_or_city_cont: query).result
     end
   end
 end
