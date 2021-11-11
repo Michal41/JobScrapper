@@ -1,0 +1,40 @@
+<div class="mean-section">
+  <h2>Based on current job offers for javascript developer in Poland the most attraction job offers are in:</h2>
+  <h1><%= @offers[:city] %></h1>
+  <h2>The average salary for JS developer in <%= @offers[:city] %> is <%= @offers[:salary] %>,00 PLN </h2>
+</div>
+
+<div class="offers-list-container">
+  <%= form_tag(root_path, method: :get) do %>
+    <div class="input-group search-container">
+      <%= text_field_tag(:query, params[:query], class: 'form-control', placeholder: 'Search JobOffer')%>
+      <div class="input-group-append">
+        <button class="btn btn-secondary" type="submit">
+          <i class="fa fa-search"></i>
+        </button>
+      </div>
+    </div>
+  <% end %>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">-</th>
+        <th scope="col">Company</th>
+        <th scope="col">Title</th>
+        <th scope="col">Salary</th>
+        <th scope="col">City</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @offers[:offers].each_with_index  do |offer, index| %>
+      <tr>
+        <th scope="row"><%= index + 1 %></th>
+        <td><%= offer[:company] %></td>
+        <td><%= offer[:title] %></td>
+        <td><%= offer[:salary] %> &nbsp;PLN</td>
+        <td><%= offer[:city] %></td>
+      </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div>

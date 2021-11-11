@@ -14,6 +14,7 @@ gem 'sidekiq'
 gem 'httparty'
 gem 'nokogiri'
 gem 'sidekiq-cron'
+gem 'ransack', github: 'activerecord-hackery/ransack'
 
 gem 'bootsnap', '>= 1.4.4', require: false
 
