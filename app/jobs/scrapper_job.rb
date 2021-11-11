@@ -22,7 +22,8 @@ class ScrapperJob < ApplicationJob
         title: job_listing.css('.posting-title__position').text.strip,
         company: job_listing.css('.posting-title__company').text.gsub(' @ ', '').strip,
         city: city,
-        salary: mean_salary(job_listing.css('.salary').text)
+        salary: mean_salary(job_listing.css('.salary').text),
+        link: "https://nofluffjobs.com#{job_listing[:href]}"
       }
       puts job
       JobOffer.create(job)
