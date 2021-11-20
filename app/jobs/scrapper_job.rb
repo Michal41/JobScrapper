@@ -26,6 +26,8 @@ class ScrapperJob < ApplicationJob
         link: "https://nofluffjobs.com#{job_listing[:href]}"
       }
       puts job
+      next if JobOffer.todays_offers.find_by(title: job[:title], company: job[:company])
+
       JobOffer.create(job)
     end
   end
@@ -37,7 +39,7 @@ class ScrapperJob < ApplicationJob
 
   def total_pages(parsed_page)
     return 0 if parsed_page.css('.page-link')[-2].nil?
+
     parsed_page.css('.page-link')[-2].text.strip.to_i
   end
-
 end
