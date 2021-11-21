@@ -3766,6 +3766,460 @@ COPY public.job_offers (id, salary, company, city, title, created_at, updated_at
 3659	20160	Spyrosoft	bialystok	Frontend Developer (React)	2021-11-20 16:47:31.384327	2021-11-20 16:47:31.384327	https://nofluffjobs.com/pl/job/frontend-developer-react-spyrosoft-bialystok-v9ukw6rn
 3660	17750	Britenet	bialystok	Remote Frontend Angular Developer	2021-11-20 16:47:32.341137	2021-11-20 16:47:32.341137	https://nofluffjobs.com/pl/job/remote-frontend-angular-developer-britenet-bialystok-umi84oyd
 3661	10000	See My Model sp. z o.o.	bialystok	Frontend Developer	2021-11-20 16:47:32.343254	2021-11-20 16:47:32.343254	https://nofluffjobs.com/pl/job/frontend-developer-see-my-model-bialystok-oisz6dy1
+3662	8000	Giganci Programowania	warszawa	Frontend Developer (Junior/Mid)	2021-11-20 20:48:19.320567	2021-11-20 20:48:19.320567	https://nofluffjobs.com/pl/job/frontend-developer-junior-mid-giganci-programowania-warsaw-pq4vlvta
+3663	5500	Software Things	katowice	Front-end developer – 6h dzień pracy	2021-11-20 20:49:07.12577	2021-11-20 20:49:07.12577	https://nofluffjobs.com/pl/job/front-end-developer-6h-dzien-pracy-software-things-katowice-ocdznmmw
+3664	32500	ShareSpace	warszawa	Senior JavaScript Developer	2021-11-21 10:35:21.518874	2021-11-21 10:35:21.518874	https://nofluffjobs.com/pl/job/senior-javascript-developer-sharespace-warszawa-pyaq4h5l
+3665	15500	Wonga.pl	warszawa	JavaScript Developer	2021-11-21 10:35:21.529377	2021-11-21 10:35:21.529377	https://nofluffjobs.com/pl/job/javascript-developer-wonga-pl-warszawa-e6ll8blr
+3666	25000	Nomagic	warszawa	Senior Fullstack Engineer	2021-11-21 10:35:21.548853	2021-11-21 10:35:21.548853	https://nofluffjobs.com/pl/job/senior-fullstack-engineer-nomagic-warszawa-kamtfove
+3667	20000	Box Inc.	warszawa	Full Stack Engineer	2021-11-21 10:35:21.552101	2021-11-21 10:35:21.552101	https://nofluffjobs.com/pl/job/full-stack-engineer-box-warszawa-e0rdhamk
+3668	24000	Box Inc.	warszawa	Lead Software Engineer	2021-11-21 10:35:21.555319	2021-11-21 10:35:21.555319	https://nofluffjobs.com/pl/job/lead-software-engineer-box-warszawa-aypurz6q
+3669	15000	Acclaim	warszawa	Remote React Developer	2021-11-21 10:35:21.558036	2021-11-21 10:35:21.558036	https://nofluffjobs.com/pl/job/remote-react-developer-acclaim-warszawa-vwvzn32m
+3670	19005	Schneider Electric	warszawa	Frontend Developer	2021-11-21 10:35:21.560653	2021-11-21 10:35:21.560653	https://nofluffjobs.com/pl/job/frontend-developer-schneider-electric-warsaw-pd5uu7hr
+3671	22000	Superdevs Sp. z o.o.	warszawa	Senior React Engineer (remote)	2021-11-21 10:35:21.565151	2021-11-21 10:35:21.565151	https://nofluffjobs.com/pl/job/senior-react-engineer-remote-superdevs-warsaw-vpyzo0lq
+3672	14500	HR Bank Sp. z o.o /Headhunting Agency	warszawa	Fullstack JavaScript Developer	2021-11-21 10:35:21.56911	2021-11-21 10:35:21.56911	https://nofluffjobs.com/pl/job/fullstack-javascript-developer-hr-bank-headhunting-agency-warszawa-wnt8d6bt
+3673	15960	Benefit Systems	warszawa	Remote Developer Node.js	2021-11-21 10:35:21.573293	2021-11-21 10:35:21.573293	https://nofluffjobs.com/pl/job/remote-developer-node-js-benefit-systems-warszawa-k6nbpxzx
+3674	18500	ERGO Technology & Services	warszawa	Fullstack Developer	2021-11-21 10:35:21.578085	2021-11-21 10:35:21.578085	https://nofluffjobs.com/pl/job/fullstack-developer-ergo-technology-services-warszawa-vkv8akon
+3675	25000	Link Group	warszawa	Fullstack Developer with Nodejs	2021-11-21 10:35:21.598865	2021-11-21 10:35:21.598865	https://nofluffjobs.com/pl/job/fullstack-developer-with-nodejs-link-group-warszawa-scpotauq
+3676	23500	Evident ID	warszawa	Senior UI Engineer	2021-11-21 10:35:21.602928	2021-11-21 10:35:21.602928	https://nofluffjobs.com/pl/job/senior-ui-engineer-evident-id-warszawa-zwmndvad
+3677	16500	Link Group	warszawa	Frontend Developer with React	2021-11-21 10:35:21.606593	2021-11-21 10:35:21.606593	https://nofluffjobs.com/pl/job/frontend-developer-with-react-link-group-warszawa-clqcvlwg
+3678	18500	Displate	warszawa	Senior Software Engineer - Frontend	2021-11-21 10:35:21.612157	2021-11-21 10:35:21.612157	https://nofluffjobs.com/pl/job/senior-software-engineer-frontend-displate-warszawa-m8y7bxx6
+3679	11500	LekSeek Polska Sp. z o.o. Sp. k.	warszawa	Frontend/Vue Developer	2021-11-21 10:35:21.615514	2021-11-21 10:35:21.615514	https://nofluffjobs.com/pl/job/frontend-vue-developer-lekseek-polska-sp-k-warszawa-dlztvfjc
+3680	24000	Superdevs Sp. z o.o.	warszawa	Senior node.js Develoer (Remote)	2021-11-21 10:35:21.619149	2021-11-21 10:35:21.619149	https://nofluffjobs.com/pl/job/senior-node-js-develoer-remote-superdevs-warsaw-wmmt7zgk
+3681	24360	People Trust Sp. z o.o.	warszawa	Frontend Developer	2021-11-21 10:35:21.622911	2021-11-21 10:35:21.622911	https://nofluffjobs.com/pl/job/frontend-developer-people-trust-warsaw-s34xzodd
+3682	17500	scommerce.one	warszawa	Remote Frontend Developer	2021-11-21 10:35:22.699602	2021-11-21 10:35:22.699602	https://nofluffjobs.com/pl/job/remote-frontend-developer-scommerce-one-warszawa-pxehduiw
+3683	20000	MIM Solutions	warszawa	Fullstack Developer	2021-11-21 10:35:22.704074	2021-11-21 10:35:22.704074	https://nofluffjobs.com/pl/job/fullstack-developer-mim-solutions-warszawa-npqyypec
+3684	23000	Power Media	warszawa	React/Angular Developer (Mid/Senior)	2021-11-21 10:35:22.708566	2021-11-21 10:35:22.708566	https://nofluffjobs.com/pl/job/react-angular-developer-mid-senior-power-media-warszawa-g4mfszrf
+3685	3400	ArdentCode	warszawa	Program Junior	2021-11-21 10:35:22.714351	2021-11-21 10:35:22.714351	https://nofluffjobs.com/pl/job/program-junior-ardentcode-warszawa-yso0n160
+3686	16900	Ringier Axel Springer Tech	warszawa	Senior JavaScript Engineer	2021-11-21 10:35:22.720629	2021-11-21 10:35:22.720629	https://nofluffjobs.com/pl/job/senior-javascript-engineer-ringier-axel-springer-tech-warszawa-k0wzbklv
+3687	6500	RemoDevs	warszawa	Junior Frontend Developer	2021-11-21 10:35:22.725103	2021-11-21 10:35:22.725103	https://nofluffjobs.com/pl/job/junior-frontend-developer-remodevs-warszawa-xdwuvu0d
+3688	15000	RemoDevs	warszawa	Remote JavaScript Frontend Developer	2021-11-21 10:35:22.728923	2021-11-21 10:35:22.728923	https://nofluffjobs.com/pl/job/remote-javascript-frontend-developer-remodevs-warszawa-7mfegghx
+3689	18900	JCommerce Sp z o o	warszawa	FRONT-END DEVELOPER | FINTECH	2021-11-21 10:35:22.750627	2021-11-21 10:35:22.750627	https://nofluffjobs.com/pl/job/front-end-developer-fintech-jcommerce-warszawa-ga1kbkn1
+3690	21000	SquareOne	warszawa	Frontend Developer	2021-11-21 10:35:22.754685	2021-11-21 10:35:22.754685	https://nofluffjobs.com/pl/job/frontend-developer-squareone-warsaw-gl2eqzb8
+3691	16550	Ringier Axel Springer Polska	warszawa	Remote JavaScript Developer	2021-11-21 10:35:22.75851	2021-11-21 10:35:22.75851	https://nofluffjobs.com/pl/job/remote-javascript-developer-ringier-axel-springer-polska-warszawa-ihxibrnz
+3692	13500	Ringier Axel Springer Tech	warszawa	Remote JavaScript Developer	2021-11-21 10:35:22.765595	2021-11-21 10:35:22.765595	https://nofluffjobs.com/pl/job/remote-javascript-developer-ringier-axel-springer-tech-warszawa-riynfnpg
+3693	9500	MicroStrategy Poland Sp z o.o.	warszawa	Junior Software Engineer	2021-11-21 10:35:22.771871	2021-11-21 10:35:22.771871	https://nofluffjobs.com/pl/job/junior-software-engineer-microstrategy-poland-warsaw-4may2xl4
+3694	18480	Code Poets sp. z.o.o.	warszawa	Vue.js Developer	2021-11-21 10:35:22.778584	2021-11-21 10:35:22.778584	https://nofluffjobs.com/pl/job/vue-js-developer-code-poets-warszawa-ogs6uhl6
+3695	24000	Superdevs Sp. z o.o.	warszawa	Senior Node.js Engineer (remote)	2021-11-21 10:35:22.799888	2021-11-21 10:35:22.799888	https://nofluffjobs.com/pl/job/senior-node-js-engineer-remote-superdevs-warsaw-rrugsklz
+3696	17500	Monogo	warszawa	Senior JavaScript Frontend Developer	2021-11-21 10:35:22.804026	2021-11-21 10:35:22.804026	https://nofluffjobs.com/pl/job/senior-javascript-frontend-developer-monogo-warszawa-mvvnxbfh
+3697	12750	Monogo	warszawa	Regular Magento Frontend Developer	2021-11-21 10:35:22.807823	2021-11-21 10:35:22.807823	https://nofluffjobs.com/pl/job/regular-magento-frontend-developer-monogo-warszawa-ggu9pq5s
+3698	19500	Sunscrapers	warszawa	Senior JavaScript (React) Developer	2021-11-21 10:35:22.811879	2021-11-21 10:35:22.811879	https://nofluffjobs.com/pl/job/senior-javascript-react-developer-sunscrapers-warszawa-m5w4q8is
+3699	13000	Link Group	warszawa	JavaScript Developer	2021-11-21 10:35:22.816362	2021-11-21 10:35:22.816362	https://nofluffjobs.com/pl/job/javascript-developer-link-group-warsaw-w3tbke1j
+3700	24000	Superdevs Sp. z o.o.	warszawa	Senior node.js Developer (Remote)	2021-11-21 10:35:22.821658	2021-11-21 10:35:22.821658	https://nofluffjobs.com/pl/job/senior-node-js-developer-remote-superdevs-warsaw-ak6jifn1
+3701	16000	Webinterpret	warszawa	Frontend Developer	2021-11-21 10:35:22.825101	2021-11-21 10:35:22.825101	https://nofluffjobs.com/pl/job/frontend-developer-webinterpret-warszawa-sivtikxk
+3702	12500	GuideVision Polska	warszawa	ServiceNow Developer (JavaScript)	2021-11-21 10:35:23.897634	2021-11-21 10:35:23.897634	https://nofluffjobs.com/pl/job/servicenow-developer-javascript-guidevision-polska-warszawa-pcaqtjih
+3703	6500	Plej Sp. z o.o.	warszawa	Frontend Developer	2021-11-21 10:35:23.907125	2021-11-21 10:35:23.907125	https://nofluffjobs.com/pl/job/frontend-developer-plej-warszawa-jnrd5zyr
+3704	17000	Acaisoft Poland Sp. z.o.o	warszawa	Senior Frontend Developer with Shopify	2021-11-21 10:35:23.91317	2021-11-21 10:35:23.91317	https://nofluffjobs.com/pl/job/senior-frontend-developer-with-shopify-acaisoft-poland-warszawa-qw7qqoyq
+3705	21000	SoftwareMill	warszawa	Senior Frontend Developer	2021-11-21 10:35:23.919146	2021-11-21 10:35:23.919146	https://nofluffjobs.com/pl/job/senior-frontend-developer-softwaremill-warszawa-orgr8ped
+3706	14175	SoftwareMill	warszawa	Mid Frontend Developer	2021-11-21 10:35:23.926859	2021-11-21 10:35:23.926859	https://nofluffjobs.com/pl/job/mid-frontend-developer-softwaremill-warszawa-22fv4u4n
+3707	7500	cloudsofthouse.com	warszawa	Junior Frontend Web Developer	2021-11-21 10:35:23.947155	2021-11-21 10:35:23.947155	https://nofluffjobs.com/pl/job/junior-frontend-web-developer-cloudsofthouse-com-warszawa-ah3hm6iv
+3708	12350	Boldare	warszawa	JavaScript Developer	2021-11-21 10:35:23.954588	2021-11-21 10:35:23.954588	https://nofluffjobs.com/pl/job/javascript-developer-boldare-warszawa-msbpha2w
+3709	19500	Shiji Poland	warszawa	Remote Senior Front-End Developer	2021-11-21 10:35:23.960045	2021-11-21 10:35:23.960045	https://nofluffjobs.com/pl/job/remote-senior-front-end-developer-shiji-poland-warszawa-slmels2b
+3710	10300	SolbegSoft	warszawa	IoT Engineer	2021-11-21 10:35:23.967327	2021-11-21 10:35:23.967327	https://nofluffjobs.com/pl/job/iot-engineer-solbegsoft-warszawa-q3nfuvqn
+3711	22000	intent	warszawa	Lead Full Stack Developer	2021-11-21 10:35:23.972089	2021-11-21 10:35:23.972089	https://nofluffjobs.com/pl/job/lead-full-stack-developer-intent-warszawa-dlw3my9f
+3712	17500	Westwing Sp. z o.o.	warszawa	Mid/Senior NodeJS Software Engineer	2021-11-21 10:35:23.976156	2021-11-21 10:35:23.976156	https://nofluffjobs.com/pl/job/mid-senior-nodejs-software-engineer-westwing-warszawa-ybu4snsr
+3713	15250	CBRE Corporate Outsourcing	warszawa	Front-end Develper JS/GIS Analyst	2021-11-21 10:35:23.997045	2021-11-21 10:35:23.997045	https://nofluffjobs.com/pl/job/front-end-develper-js-gis-analyst-cbre-corporate-outsourcing-warszawa-d53nrjvm
+3714	9000	cloudsofthouse.com	warszawa	Mid Frontend Web Developer	2021-11-21 10:35:24.047196	2021-11-21 10:35:24.047196	https://nofluffjobs.com/pl/job/mid-frontend-web-developer-cloudsofthouse-com-warszawa-yqlw3xok
+3715	27500	Miinto	warszawa	Principal Frontend Engineer	2021-11-21 10:35:24.051263	2021-11-21 10:35:24.051263	https://nofluffjobs.com/pl/job/principal-frontend-engineer-miinto-warsaw-rwn0ln7o
+3716	11500	Digital Colliers sp. z o.o.	warszawa	Remote Vue.js Developer	2021-11-21 10:35:24.054884	2021-11-21 10:35:24.054884	https://nofluffjobs.com/pl/job/remote-vue-js-developer-digital-colliers-warszawa-ds3au63j
+3717	15000	Itransition	warszawa	Front-end Middle Developer	2021-11-21 10:35:24.058447	2021-11-21 10:35:24.058447	https://nofluffjobs.com/pl/job/front-end-middle-developer-itransition-warsaw-8xuhgurl
+3718	30000	monday.com	warszawa	Senior Fullstack Developer	2021-11-21 10:35:24.065435	2021-11-21 10:35:24.065435	https://nofluffjobs.com/pl/job/senior-fullstack-developer-monday-com-warsaw-kgitmlze
+3719	13500	HL Tech	warszawa	Frontend Developer	2021-11-21 10:35:24.06919	2021-11-21 10:35:24.06919	https://nofluffjobs.com/pl/job/frontend-developer-hl-tech-warsaw-3soqdhe6
+3720	24360	Dynamic Solutions	warszawa	Senior Frontend Developer	2021-11-21 10:35:24.072644	2021-11-21 10:35:24.072644	https://nofluffjobs.com/pl/job/senior-frontend-developer-dynamic-solutions-warszawa-1wymrwlm
+3721	17640	RTB House	warszawa	Web Developer (Vue.js)	2021-11-21 10:35:25.32028	2021-11-21 10:35:25.32028	https://nofluffjobs.com/pl/job/web-developer-vue-js-rtb-house-warsaw-iopc8seq
+3722	18000	Idego Group Sp. z o.o.	warszawa	Remote React Developer	2021-11-21 10:35:25.329242	2021-11-21 10:35:25.329242	https://nofluffjobs.com/pl/job/remote-react-developer-idego-group-warszawa-br8ftav7
+3723	12000	Cyfrowy Polsat S.A.	warszawa	JavaScript Developer	2021-11-21 10:35:25.349968	2021-11-21 10:35:25.349968	https://nofluffjobs.com/pl/job/javascript-developer-cyfrowy-polsat-warszawa-4jrfxakv
+3724	23500	PTT Consulting Sp. z o. o.	warszawa	Senior Frontend Software Developer	2021-11-21 10:35:25.354357	2021-11-21 10:35:25.354357	https://nofluffjobs.com/pl/job/senior-frontend-software-developer-ptt-consulting-warszawa-ad88jo1k
+3725	20000	Bayer	warszawa	Software Engineer - JS (Medium/Senior)	2021-11-21 10:35:25.360157	2021-11-21 10:35:25.360157	https://nofluffjobs.com/pl/job/software-engineer-js-medium-senior-bayer-warsaw-slbl62at
+3726	17600	Ringier Axel Springer Tech	warszawa	Expert JavaScript Engineer	2021-11-21 10:35:25.366064	2021-11-21 10:35:25.366064	https://nofluffjobs.com/pl/job/expert-javascript-engineer-ringier-axel-springer-tech-warszawa-qpkwklj3
+3727	20160	EcoVadis/CyberVadis	warszawa	Frontend Developer	2021-11-21 10:35:25.369647	2021-11-21 10:35:25.369647	https://nofluffjobs.com/pl/job/frontend-developer-ecovadis-cybervadis-warszawa-eaeyxhsg
+3728	13500	EL Passion	warszawa	Node.js Developer	2021-11-21 10:35:25.37316	2021-11-21 10:35:25.37316	https://nofluffjobs.com/pl/job/node-js-developer-el-passion-warszawa-ha4l5bjw
+3729	16000	IDEA team within Narodowe Centrum Badań Jądrowych	warszawa	Fullstack Tech Lead	2021-11-21 10:35:25.376613	2021-11-21 10:35:25.376613	https://nofluffjobs.com/pl/job/fullstack-tech-lead-idea-team-within-narodowe-centrum-badan-jadrowych-warszawa-isejy9qp
+3730	13500	Ringier Axel Springer Tech	warszawa	JavaScript Developer	2021-11-21 10:35:25.398349	2021-11-21 10:35:25.398349	https://nofluffjobs.com/pl/job/javascript-developer-ringier-axel-springer-tech-warszawa-fu7kfkf1
+3731	12000	IT Touch	warszawa	JavaScript Developer	2021-11-21 10:35:25.402725	2021-11-21 10:35:25.402725	https://nofluffjobs.com/pl/job/javascript-developer-it-touch-warszawa-edx4yhv2
+3732	17000	Promatic Group	warszawa	Senior JavaScript Developer	2021-11-21 10:35:25.405826	2021-11-21 10:35:25.405826	https://nofluffjobs.com/pl/job/senior-javascript-developer-promatic-group-warszawa-oo5snqyx
+3733	22680	AVENGA	warszawa	Full-Stack Developer	2021-11-21 10:35:25.408721	2021-11-21 10:35:25.408721	https://nofluffjobs.com/pl/job/full-stack-developer-avenga-warszawa-mfgdmue3
+3734	13500	Orange Polska	warszawa	Frontend Developer	2021-11-21 10:35:25.411798	2021-11-21 10:35:25.411798	https://nofluffjobs.com/pl/job/frontend-developer-orange-polska-warszawa-xqekka8d
+3735	16875	VSTORM	warszawa	REMOTE Frontend Developer	2021-11-21 10:35:25.414821	2021-11-21 10:35:25.414821	https://nofluffjobs.com/pl/job/remote-frontend-developer-vstorm-warszawa-eytlkebc
+3736	24000	Superdevs Sp. z o.o.	warszawa	Remote Node.js Developer	2021-11-21 10:35:25.417659	2021-11-21 10:35:25.417659	https://nofluffjobs.com/pl/job/remote-node-js-developer-superdevs-warsaw-uvokncgc
+3737	22000	Swing Development	warszawa	Mid Senior Backend Developer (Node.js)	2021-11-21 10:35:25.420605	2021-11-21 10:35:25.420605	https://nofluffjobs.com/pl/job/mid-senior-backend-developer-node-js-swing-development-warszawa-adohei1c
+3738	19950	Harvey Nash Technology	warszawa	Front End Developer (REMOTE)	2021-11-21 10:35:25.424629	2021-11-21 10:35:25.424629	https://nofluffjobs.com/pl/job/front-end-developer-remote-harvey-nash-technology-warszawa-kkabwlnw
+3739	12000	Sollers Consulting	warszawa	Frontend Developer	2021-11-21 10:35:25.428379	2021-11-21 10:35:25.428379	https://nofluffjobs.com/pl/job/frontend-developer-sollers-consulting-warszawa-qqnecxtd
+3740	7500	Margo	warszawa	JavaScript Developer	2021-11-21 10:35:25.45403	2021-11-21 10:35:25.45403	https://nofluffjobs.com/pl/job/javascript-developer-margo-warszawa-ghtirktj
+3741	15600	Mobica Limited	warszawa	Software Engineer In Test	2021-11-21 10:35:26.660255	2021-11-21 10:35:26.660255	https://nofluffjobs.com/pl/job/software-engineer-in-test-mobica-limited-warszawa-zcv13xec
+3742	13440	Code Poets	warszawa	Test Automation Engineer	2021-11-21 10:35:26.668929	2021-11-21 10:35:26.668929	https://nofluffjobs.com/pl/job/test-automation-engineer-code-poets-warszawa-fqmnafhr
+3743	14000	Link Group	warszawa	QA Engineer	2021-11-21 10:35:26.675951	2021-11-21 10:35:26.675951	https://nofluffjobs.com/pl/job/qa-engineer-link-group-warszawa-uhrauuue
+3744	10500	Spark	warszawa	Test Automation Engineer	2021-11-21 10:35:26.698452	2021-11-21 10:35:26.698452	https://nofluffjobs.com/pl/job/test-automation-engineer-spark-warszawa-0xhovzmz
+3745	18000	Idego Group Sp. z o.o.	warszawa	Senior QA Engineer	2021-11-21 10:35:26.70164	2021-11-21 10:35:26.70164	https://nofluffjobs.com/pl/job/senior-qa-engineer-idego-group-warszawa-osn3nugn
+3746	11500	intent	warszawa	Test/QA Engineer	2021-11-21 10:35:26.709479	2021-11-21 10:35:26.709479	https://nofluffjobs.com/pl/job/test-qa-engineer-intent-warszawa-9eueg1qn
+3747	9000	Lendi Sp. z o.o.	warszawa	Test Engineer	2021-11-21 10:35:26.712934	2021-11-21 10:35:26.712934	https://nofluffjobs.com/pl/job/test-engineer-lendi-warszawa-u44b3jho
+3748	21000	Acaisoft Poland Sp. z.o.o	warszawa	Senior Automation QA Engineer (Cypress)	2021-11-21 10:35:26.716246	2021-11-21 10:35:26.716246	https://nofluffjobs.com/pl/job/senior-automation-qa-engineer-cypress-acaisoft-poland-warszawa-i3ofmixd
+3749	14000	Acaisoft Poland Sp. z.o.o	warszawa	Mid Automation QA Engineer (Cypress)	2021-11-21 10:35:26.720529	2021-11-21 10:35:26.720529	https://nofluffjobs.com/pl/job/mid-automation-qa-engineer-cypress-acaisoft-poland-warszawa-bmfckket
+3750	10000	Startup Development House	warszawa	Remote Senior QA Engineer	2021-11-21 10:35:26.727296	2021-11-21 10:35:26.727296	https://nofluffjobs.com/pl/job/remote-senior-qa-engineer-startup-development-house-warsaw-rfjlnbfy
+3751	22050	Sii Polska	warszawa	Salesforce Commerce Cloud Developer	2021-11-21 10:35:26.748431	2021-11-21 10:35:26.748431	https://nofluffjobs.com/pl/job/salesforce-commerce-cloud-developer-sii-polska-warszawa-tnlhkagw
+3752	21500	Link Group Sp. z o. o.	warszawa	Senior / Frontend Developer (React)	2021-11-21 10:35:26.751562	2021-11-21 10:35:26.751562	https://nofluffjobs.com/pl/job/senior-frontend-developer-react-link-group-warszawa-0gob7jah
+3753	8000	Giganci Programowania	warszawa	Frontend Developer (Junior/Mid)	2021-11-21 10:35:26.755388	2021-11-21 10:35:26.755388	https://nofluffjobs.com/pl/job/frontend-developer-junior-mid-giganci-programowania-warsaw-pq4vlvta
+3754	16000	BOLD	warszawa	Remote React Developer	2021-11-21 10:35:26.759221	2021-11-21 10:35:26.759221	https://nofluffjobs.com/pl/job/remote-react-developer-bold-warsaw-efhlckew
+3755	21500	Superdevs Sp. z o.o.	warszawa	React Native Developer (remote)	2021-11-21 10:35:26.763747	2021-11-21 10:35:26.763747	https://nofluffjobs.com/pl/job/react-native-developer-remote-superdevs-warszawa-tnndh0vx
+3756	16000	Aplikacje Krytyczne Sp. z o.o.	warszawa	Senior Frontend Developer	2021-11-21 10:35:26.767364	2021-11-21 10:35:26.767364	https://nofluffjobs.com/pl/job/senior-frontend-developer-aplikacje-krytyczne-warszawa-b6ycpzf8
+3757	20000	ITMAGINATION	warszawa	Frontend React Developer - 100% Remote	2021-11-21 10:35:26.772438	2021-11-21 10:35:26.772438	https://nofluffjobs.com/pl/job/frontend-react-developer-100-remote-itmagination-warsaw-t584jj88
+3758	19320	Link Group	warszawa	Regular React Developer	2021-11-21 10:35:26.778132	2021-11-21 10:35:26.778132	https://nofluffjobs.com/pl/job/regular-react-developer-link-group-warsaw-wglldubt
+3759	18500	OLX Group	warszawa	Remote Senior Node.js Engineer with AWS	2021-11-21 10:35:26.799141	2021-11-21 10:35:26.799141	https://nofluffjobs.com/pl/job/remote-senior-node-js-engineer-with-aws-olx-group-warsaw-wrtydepq
+3760	21450	Citi Service Center	warszawa	Senior Frontend Developer	2021-11-21 10:35:26.802503	2021-11-21 10:35:26.802503	https://nofluffjobs.com/pl/job/senior-frontend-developer-citi-service-center-warszawa-6cj1xg7y
+3761	16000	Lendi Sp. z o.o.	warszawa	Remote Fullstack Scala Engineer	2021-11-21 10:35:27.847135	2021-11-21 10:35:27.847135	https://nofluffjobs.com/pl/job/remote-fullstack-scala-engineer-lendi-warszawa-pc6hm7df
+3762	14000	Lendi Sp. z o.o.	warszawa	Remote Vue.js Developer	2021-11-21 10:35:27.851006	2021-11-21 10:35:27.851006	https://nofluffjobs.com/pl/job/remote-vue-js-developer-lendi-warszawa-t0on1ro2
+3763	25620	Link Group	warszawa	Senior Remote Angular Developer	2021-11-21 10:35:27.854141	2021-11-21 10:35:27.854141	https://nofluffjobs.com/pl/job/senior-remote-angular-developer-link-group-warszawa-r7dx0num
+3764	16500	Edipresse Polska S.A.	warszawa	Senior/Regular PHP Developer (ecommerce)	2021-11-21 10:35:27.857842	2021-11-21 10:35:27.857842	https://nofluffjobs.com/pl/job/senior-regular-php-developer-ecommerce-edipresse-polska-warszawa-axficdzl
+3765	13000	Acclaim	warszawa	Remote Wordpress Developer	2021-11-21 10:35:27.861647	2021-11-21 10:35:27.861647	https://nofluffjobs.com/pl/job/remote-wordpress-developer-acclaim-warszawa-l8pficr5
+3766	23400	Knowit Poland Sp. z o.o.	warszawa	Senior Vue Developer	2021-11-21 10:35:27.865925	2021-11-21 10:35:27.865925	https://nofluffjobs.com/pl/job/senior-vue-developer-knowit-poland-warszawa-rvtbriqi
+3767	23400	Knowit Poland Sp. z o.o.	warszawa	Senior Angular Developer	2021-11-21 10:35:27.869032	2021-11-21 10:35:27.869032	https://nofluffjobs.com/pl/job/senior-angular-developer-knowit-poland-warszawa-wy4itesy
+3768	21840	People Trust Sp. z o.o.	warszawa	Senior Angular Developer	2021-11-21 10:35:27.872182	2021-11-21 10:35:27.872182	https://nofluffjobs.com/pl/job/senior-angular-developer-people-trust-warsaw-hkokngn1
+3769	18000	Sunscrapers	warszawa	WordPress Developer w/React	2021-11-21 10:35:27.875381	2021-11-21 10:35:27.875381	https://nofluffjobs.com/pl/job/wordpress-developer-w-react-sunscrapers-warszawa-ymr4htis
+3770	18480	People Trust Sp. z o.o.	warszawa	Angular Developer	2021-11-21 10:35:27.878335	2021-11-21 10:35:27.878335	https://nofluffjobs.com/pl/job/angular-developer-people-trust-warsaw-qofg4k4d
+3771	20000	Devire Sp. z o.o.	warszawa	.NET Developer	2021-11-21 10:35:27.898892	2021-11-21 10:35:27.898892	https://nofluffjobs.com/pl/job/net-developer-devire-warszawa-ai4sbwpf
+3772	20000	Devire Sp. z o.o.	warszawa	Fullstack .NET Developer	2021-11-21 10:35:27.903079	2021-11-21 10:35:27.903079	https://nofluffjobs.com/pl/job/fullstack-net-developer-devire-warszawa-ucudwgeq
+3773	8500	Dataedo sp. z o.o.	warszawa	Remote Junior Angular Frontend Developer	2021-11-21 10:35:27.906203	2021-11-21 10:35:27.906203	https://nofluffjobs.com/pl/job/remote-junior-angular-frontend-developer-dataedo-warszawa-2i2jsr4y
+3774	23520	in4mates	warszawa	Senior Java Developer	2021-11-21 10:35:27.909606	2021-11-21 10:35:27.909606	https://nofluffjobs.com/pl/job/senior-java-developer-in4mates-warszawa-xblg1ujw
+3775	10000	PKP Intercity S.A.	warszawa	Test Automation Engineer	2021-11-21 10:35:27.914116	2021-11-21 10:35:27.914116	https://nofluffjobs.com/pl/job/test-automation-engineer-pkp-intercity-warszawa-u8qvw920
+3776	12000	XTB	warszawa	PHP Developer	2021-11-21 10:35:27.918478	2021-11-21 10:35:27.918478	https://nofluffjobs.com/pl/job/php-developer-xtb-warszawa-ameldp5g
+3777	10000	PKP Intercity S.A.	warszawa	Fullstack Java Developer	2021-11-21 10:35:27.923221	2021-11-21 10:35:27.923221	https://nofluffjobs.com/pl/job/fullstack-java-developer-pkp-intercity-warszawa-bgdlppmo
+3778	14000	Avanade Poland	warszawa	Front-End Developer	2021-11-21 10:35:27.928774	2021-11-21 10:35:27.928774	https://nofluffjobs.com/pl/job/front-end-developer-avanade-poland-warszawa-lq5juosr
+3779	14500	HR Bank Sp. z o.o /Headhunting Agency	warszawa	React Developer	2021-11-21 10:35:27.949111	2021-11-21 10:35:27.949111	https://nofluffjobs.com/pl/job/react-developer-hr-bank-headhunting-agency-warszawa-ouksmwop
+3780	28140	Ework Group	warszawa	Lead Developer	2021-11-21 10:35:27.95209	2021-11-21 10:35:27.95209	https://nofluffjobs.com/pl/job/lead-developer-ework-group-warszawa-ptvsg9oo
+3781	21840	AVENGA	warszawa	Senior .NET Engineer	2021-11-21 10:35:29.047527	2021-11-21 10:35:29.047527	https://nofluffjobs.com/pl/job/senior-net-engineer-avenga-warsaw-dvrbzsfa
+3782	10920	AVENGA	warszawa	Junior React Developer	2021-11-21 10:35:29.052959	2021-11-21 10:35:29.052959	https://nofluffjobs.com/pl/job/junior-react-developer-avenga-warszawa-hw4kv8vd
+3783	21000	10Clouds	warszawa	Senior Node.js Developer	2021-11-21 10:35:29.056635	2021-11-21 10:35:29.056635	https://nofluffjobs.com/pl/job/senior-node-js-developer-10clouds-warszawa-ih1ibrau
+3784	20160	AVENGA	warszawa	Frontend Developer (Finance)	2021-11-21 10:35:29.062181	2021-11-21 10:35:29.062181	https://nofluffjobs.com/pl/job/frontend-developer-finance-avenga-warszawa-yppu83dn
+3785	13500	10Clouds	warszawa	JavaScript Developer (with React.js)	2021-11-21 10:35:29.067545	2021-11-21 10:35:29.067545	https://nofluffjobs.com/pl/job/javascript-developer-with-react-js-10clouds-warszawa-msquqekd
+3786	31920	AVENGA	warszawa	Frontend Developer (React or Angular)	2021-11-21 10:35:29.072661	2021-11-21 10:35:29.072661	https://nofluffjobs.com/pl/job/frontend-developer-react-or-angular-avenga-warszawa-84d9lihz
+3787	18900	Sii Polska	warszawa	Remote Frontend Developer with React	2021-11-21 10:35:29.076189	2021-11-21 10:35:29.076189	https://nofluffjobs.com/pl/job/remote-frontend-developer-with-react-sii-polska-warszawa-hbds5dvg
+3788	11000	Semantive	warszawa	React Developer	2021-11-21 10:35:29.079557	2021-11-21 10:35:29.079557	https://nofluffjobs.com/pl/job/react-developer-semantive-warsaw-ql2kjgon
+3789	23520	IN Team	warszawa	React Developer (remote)	2021-11-21 10:35:29.101891	2021-11-21 10:35:29.101891	https://nofluffjobs.com/pl/job/react-developer-remote-in-team-warszawa-4ajcivhb
+3790	21500	Superdevs Sp. z o.o.	warszawa	React Native Engineer (remote)	2021-11-21 10:35:29.105642	2021-11-21 10:35:29.105642	https://nofluffjobs.com/pl/job/react-native-engineer-remote-superdevs-warszawa-f9wznkyu
+3791	15120	Spyrosoft	warszawa	Middle/Senior Python Software Engineer	2021-11-21 10:35:29.108709	2021-11-21 10:35:29.108709	https://nofluffjobs.com/pl/job/middle-senior-python-software-engineer-spyrosoft-warszawa-yrhnqbst
+3792	18900	Devire	warszawa	Frontend Developer	2021-11-21 10:35:29.112035	2021-11-21 10:35:29.112035	https://nofluffjobs.com/pl/job/frontend-developer-devire-warszawa-bgczacol
+3793	12500	COMP S.A.	warszawa	Remote Junior/Mid Frontend Developer	2021-11-21 10:35:29.115832	2021-11-21 10:35:29.115832	https://nofluffjobs.com/pl/job/remote-junior-mid-frontend-developer-comp-warszawa-vrp32noe
+3794	15000	LekSeek Polska Sp. z o.o. Sp. k.	warszawa	Fullstack Django Engineer	2021-11-21 10:35:29.118737	2021-11-21 10:35:29.118737	https://nofluffjobs.com/pl/job/fullstack-django-engineer-lekseek-polska-sp-k-warszawa-bktbgzf5
+3795	25200	AVENGA	warszawa	Frontend Developer	2021-11-21 10:35:29.121764	2021-11-21 10:35:29.121764	https://nofluffjobs.com/pl/job/frontend-developer-avenga-warsaw-fjmwwebh
+3796	22500	BigPicture	warszawa	Senior/Expert Angular Developer	2021-11-21 10:35:29.124691	2021-11-21 10:35:29.124691	https://nofluffjobs.com/pl/job/senior-expert-angular-developer-bigpicture-warszawa-sv47d483
+3797	14000	BigPicture	warszawa	Mid Angular Developer	2021-11-21 10:35:29.128475	2021-11-21 10:35:29.128475	https://nofluffjobs.com/pl/job/mid-angular-developer-bigpicture-warszawa-4skrhheg
+3798	15000	Citi Service Center	warszawa	Frontend UI/UX Developer	2021-11-21 10:35:29.149595	2021-11-21 10:35:29.149595	https://nofluffjobs.com/pl/job/frontend-ui-ux-developer-citi-service-center-warszawa-hxyucu0z
+3799	21000	Sii Polska	warszawa	Frontend Developer	2021-11-21 10:35:29.15368	2021-11-21 10:35:29.15368	https://nofluffjobs.com/pl/job/frontend-developer-sii-polska-warszawa-os3snpnq
+3800	21420	Sii Polska	warszawa	Full-stack Web Developer	2021-11-21 10:35:29.157181	2021-11-21 10:35:29.157181	https://nofluffjobs.com/pl/job/full-stack-web-developer-sii-polska-warszawa-7eo2scho
+3801	24000	RemoDevs	warszawa	Remote Fullstack .Net Developer	2021-11-21 10:35:30.055009	2021-11-21 10:35:30.055009	https://nofluffjobs.com/pl/job/remote-fullstack-net-developer-remodevs-warszawa-qjmyi9xz
+3802	20000	XTB	warszawa	Salesforce Developer	2021-11-21 10:35:30.059457	2021-11-21 10:35:30.059457	https://nofluffjobs.com/pl/job/salesforce-developer-xtb-warszawa-zr1tw36i
+3803	17640	JCommerce Sp z o o	warszawa	SENIOR FRONT-END DEVELOPER | ANGULAR	2021-11-21 10:35:30.06466	2021-11-21 10:35:30.06466	https://nofluffjobs.com/pl/job/senior-front-end-developer-angular-jcommerce-warszawa-auedhiah
+3804	22500	Acaisoft Poland Sp. z o.o.	warszawa	Fullstack Developer (React +Node.js)	2021-11-21 10:35:30.068588	2021-11-21 10:35:30.068588	https://nofluffjobs.com/pl/job/fullstack-developer-react-node-js-acaisoft-poland-warsaw-tcgwztqs
+3805	22680	IN Team	warszawa	Front-end Developer (Angular 11)	2021-11-21 10:35:30.07397	2021-11-21 10:35:30.07397	https://nofluffjobs.com/pl/job/front-end-developer-angular-11-in-team-warsaw-pgrotubc
+3806	20500	pTAG	warszawa	Remote Vue.js Developer	2021-11-21 10:35:30.100047	2021-11-21 10:35:30.100047	https://nofluffjobs.com/pl/job/remote-vue-js-developer-ptag-warszawa-ctxlqe50
+3807	15000	Bazy i Systemy Bankowe Sp.  zo.o.	warszawa	Java Developer	2021-11-21 10:35:30.110473	2021-11-21 10:35:30.110473	https://nofluffjobs.com/pl/job/java-developer-bazy-i-systemy-bankowe-sp-zo-o-warszawa-ra9ayqbt
+3808	20160	7N Sp. z o.o.	warszawa	Microsoft Dynamics CRM Developer	2021-11-21 10:35:30.116954	2021-11-21 10:35:30.116954	https://nofluffjobs.com/pl/job/microsoft-dynamics-crm-developer-7n-warszawa-cigqdkgl
+3809	24360	ProData Consult	warszawa	Fullstack PHP Developer	2021-11-21 10:35:30.123142	2021-11-21 10:35:30.123142	https://nofluffjobs.com/pl/job/fullstack-php-developer-prodata-consult-warszawa-abviczdd
+3810	10800	Sparkbit spółka z o.o.	warszawa	Junior TypeScript Developer	2021-11-21 10:35:30.146969	2021-11-21 10:35:30.146969	https://nofluffjobs.com/pl/job/junior-typescript-developer-sparkbit-spolka-z-o-o-warsaw-ugmug6mw
+3811	21250	Sparkbit spółka z o.o.	warszawa	Senior TypeScript Developer	2021-11-21 10:35:30.15299	2021-11-21 10:35:30.15299	https://nofluffjobs.com/pl/job/senior-typescript-developer-sparkbit-spolka-z-o-o-warsaw-primwnjx
+3812	25000	Synerise	warszawa	Principal Frontend Developer	2021-11-21 10:35:30.159606	2021-11-21 10:35:30.159606	https://nofluffjobs.com/pl/job/principal-frontend-developer-synerise-warszawa-dfbrvyfy
+3813	6750	BOC Information Technologies Consulting Sp. z o.o.	warszawa	Junior Fullstack Developer	2021-11-21 10:35:30.168895	2021-11-21 10:35:30.168895	https://nofluffjobs.com/pl/job/junior-fullstack-developer-boc-information-technologies-consulting-warszawa-pwha34sq
+3814	20500	Packhelp	warszawa	Senior Node.js Developer (Warsaw/Remote)	2021-11-21 10:35:30.174435	2021-11-21 10:35:30.174435	https://nofluffjobs.com/pl/job/senior-node-js-developer-warsaw-remote-packhelp-warszawa-ehp11p4g
+3815	12250	Enxoo	warszawa	Salesforce / Fullstack Developer	2021-11-21 10:35:30.199651	2021-11-21 10:35:30.199651	https://nofluffjobs.com/pl/job/salesforce-fullstack-developer-enxoo-warszawa-p1xukjbb
+3816	6500	Enxoo	warszawa	Junior Salesforce / Fullstack Develope	2021-11-21 10:35:30.206876	2021-11-21 10:35:30.206876	https://nofluffjobs.com/pl/job/junior-salesforce-fullstack-develope-enxoo-warszawa-qlc8sg1w
+3817	22500	Link Group	warszawa	Vue.js Developer	2021-11-21 10:35:30.210691	2021-11-21 10:35:30.210691	https://nofluffjobs.com/pl/job/vue-js-developer-link-group-warszawa-tizq7qtu
+3818	16000	Addepto	warszawa	Remote Mid/Senior Angular Developer	2021-11-21 10:35:30.216169	2021-11-21 10:35:30.216169	https://nofluffjobs.com/pl/job/remote-mid-senior-angular-developer-addepto-warszawa-mxkvtaei
+3819	18480	IN Team	warszawa	React (17) Developer	2021-11-21 10:35:30.221532	2021-11-21 10:35:30.221532	https://nofluffjobs.com/pl/job/react-17-developer-in-team-warszawa-tjw7yq10
+3820	23520	B3 Consulting Poland	warszawa	React Developer	2021-11-21 10:35:30.247055	2021-11-21 10:35:30.247055	https://nofluffjobs.com/pl/job/react-developer-b3-consulting-poland-warszawa-ovwq1sr8
+3821	7980	Elektrometal Energetyka SA	warszawa	Junior Fullstack Developer	2021-11-21 10:35:31.52984	2021-11-21 10:35:31.52984	https://nofluffjobs.com/pl/job/junior-fullstack-developer-elektrometal-energetyka-warszawa-gnq8cvlm
+3822	15750	ASTEK Polska	warszawa	Test Automation Engineer	2021-11-21 10:35:31.552572	2021-11-21 10:35:31.552572	https://nofluffjobs.com/pl/job/test-automation-engineer-astek-polska-warsaw-h3etigvr
+3823	16500	AVENGA	warszawa	Fullstack (Java Angular) Developer	2021-11-21 10:35:31.556261	2021-11-21 10:35:31.556261	https://nofluffjobs.com/pl/job/fullstack-java-angular-developer-avenga-warszawa-p29jccag
+3824	21000	You Need IT Sp z o.o. Sp. komandytowa.	warszawa	Software Developer	2021-11-21 10:35:31.55923	2021-11-21 10:35:31.55923	https://nofluffjobs.com/pl/job/software-developer-you-need-it-sp-komandytowa-warszawa-cdo1grlz
+3825	18480	Lingaro	warszawa	Mid Frontend React Developer	2021-11-21 10:35:31.562782	2021-11-21 10:35:31.562782	https://nofluffjobs.com/pl/job/mid-frontend-react-developer-lingaro-warszawa-91xjugpj
+3826	11500	Cyfrowy Polsat S.A.	warszawa	Fullstack Ruby on rails Engineer	2021-11-21 10:35:31.565964	2021-11-21 10:35:31.565964	https://nofluffjobs.com/pl/job/fullstack-ruby-on-rails-engineer-cyfrowy-polsat-warszawa-tkzrrzwt
+3827	27300	Harvey Nash Technology	warszawa	UI Developer	2021-11-21 10:35:31.569222	2021-11-21 10:35:31.569222	https://nofluffjobs.com/pl/job/ui-developer-harvey-nash-technology-warszawa-ziy60ykx
+3828	16000	WealthArc	warszawa	Frontend Developer	2021-11-21 10:35:31.572242	2021-11-21 10:35:31.572242	https://nofluffjobs.com/pl/job/frontend-developer-wealtharc-warszawa-ag9ttfx1
+3829	25200	Devire	warszawa	Fullstack React Developer	2021-11-21 10:35:31.578195	2021-11-21 10:35:31.578195	https://nofluffjobs.com/pl/job/fullstack-react-developer-devire-warszawa-mtvawldd
+3830	14500	Tooploox	warszawa	Front-end React Engineer (Regular)	2021-11-21 10:35:31.598894	2021-11-21 10:35:31.598894	https://nofluffjobs.com/pl/job/front-end-react-engineer-regular-tooploox-warsaw-pyugqvl9
+3831	20580	AVENGA	warszawa	Fullstack Java Developer- 100% remote	2021-11-21 10:35:31.604403	2021-11-21 10:35:31.604403	https://nofluffjobs.com/pl/job/fullstack-java-developer-100-remote-avenga-warszawa-d8sqxiak
+3832	18500	CPL Jobs	warszawa	Remote Frontend Developer (React)	2021-11-21 10:35:31.607417	2021-11-21 10:35:31.607417	https://nofluffjobs.com/pl/job/remote-frontend-developer-react-cpl-jobs-warszawa-zt0jvnh6
+3833	16550	Ringier Axel Springer Tech	warszawa	Node Developer	2021-11-21 10:35:31.611421	2021-11-21 10:35:31.611421	https://nofluffjobs.com/pl/job/node-developer-ringier-axel-springer-tech-warszawa-8jfbrgsi
+3834	25200	Link Group	warszawa	Senior Remote Node.js Developer	2021-11-21 10:35:31.616062	2021-11-21 10:35:31.616062	https://nofluffjobs.com/pl/job/senior-remote-node-js-developer-link-group-warszawa-pjnaxn59
+3835	11500	Polcode	warszawa	React Developer	2021-11-21 10:35:31.619985	2021-11-21 10:35:31.619985	https://nofluffjobs.com/pl/job/react-developer-polcode-warszawa-g2buoqqz
+3836	22680	People Trust Sp. z o.o.	warszawa	Frontend Angular Developer	2021-11-21 10:35:31.62382	2021-11-21 10:35:31.62382	https://nofluffjobs.com/pl/job/frontend-angular-developer-people-trust-warsaw-bmvthtrq
+3837	12000	AppTailors	warszawa	Remote React Developer	2021-11-21 10:35:31.627581	2021-11-21 10:35:31.627581	https://nofluffjobs.com/pl/job/remote-react-developer-apptailors-warszawa-cjj4z6tv
+3838	23000	Direct Communication Sp. z o.o.	warszawa	Java/JavaScript Developer - Remote	2021-11-21 10:35:31.64806	2021-11-21 10:35:31.64806	https://nofluffjobs.com/pl/job/java-javascript-developer-remote-direct-communication-warsaw-o1oawzmi
+3839	15000	Stepwise	warszawa	Remote React Developer	2021-11-21 10:35:32.747247	2021-11-21 10:35:32.747247	https://nofluffjobs.com/pl/job/remote-react-developer-stepwise-warszawa-hqtm7snu
+3840	17000	Swapcard	warszawa	Remote Frontend Developer	2021-11-21 10:35:32.752443	2021-11-21 10:35:32.752443	https://nofluffjobs.com/pl/job/remote-frontend-developer-swapcard-warszawa-dzqctlly
+3841	16000	Vodeno	warszawa	QA Engineer	2021-11-21 10:35:32.756315	2021-11-21 10:35:32.756315	https://nofluffjobs.com/pl/job/qa-engineer-vodeno-warsaw-qsgrgwh0
+3842	18500	intent	warszawa	Senior Frontend Developer	2021-11-21 10:35:32.76002	2021-11-21 10:35:32.76002	https://nofluffjobs.com/pl/job/senior-frontend-developer-intent-warszawa-x6flgmlc
+3843	21420	Devire	warszawa	Java+Angular Developer (Remote)	2021-11-21 10:35:32.766565	2021-11-21 10:35:32.766565	https://nofluffjobs.com/pl/job/java-angular-developer-remote-devire-warszawa-p3gzjwwz
+3844	26460	ProData Consult	warszawa	React Developer	2021-11-21 10:35:32.772098	2021-11-21 10:35:32.772098	https://nofluffjobs.com/pl/job/react-developer-prodata-consult-warszawa-5yv7sr7t
+3845	19000	Adshares	warszawa	Frontend Developer	2021-11-21 10:35:32.775909	2021-11-21 10:35:32.775909	https://nofluffjobs.com/pl/job/frontend-developer-adshares-warszawa-gj4f0k1s
+3846	20500	Superdevs Sp. z o.o.	warszawa	Senior QA Automation Engineer (remote)	2021-11-21 10:35:32.796673	2021-11-21 10:35:32.796673	https://nofluffjobs.com/pl/job/senior-qa-automation-engineer-remote-superdevs-warszawa-ihs5chpa
+3847	24000	Lukardi S.A.	warszawa	Remote Frontend Developer	2021-11-21 10:35:32.803162	2021-11-21 10:35:32.803162	https://nofluffjobs.com/pl/job/remote-frontend-developer-lukardi-warszawa-kyssputy
+3848	11500	Dataedo sp. z o.o.	warszawa	Remote Angular Frontend Developer	2021-11-21 10:35:32.806266	2021-11-21 10:35:32.806266	https://nofluffjobs.com/pl/job/remote-angular-frontend-developer-dataedo-warszawa-vi0zlwyf
+3849	13000	Orange Polska	warszawa	React Developer	2021-11-21 10:35:32.809229	2021-11-21 10:35:32.809229	https://nofluffjobs.com/pl/job/react-developer-orange-polska-warszawa-spwjstl2
+3850	15500	Engave S.A.	warszawa	Frontend Developer	2021-11-21 10:35:32.812159	2021-11-21 10:35:32.812159	https://nofluffjobs.com/pl/job/frontend-developer-engave-warszawa-i7hrixcp
+3851	11500	Itransition	warszawa	Salesforce Middle Developer	2021-11-21 10:35:32.815352	2021-11-21 10:35:32.815352	https://nofluffjobs.com/pl/job/salesforce-middle-developer-itransition-warszawa-yzvnegqm
+3852	25200	Sii Polska	warszawa	Remote React Tech Lead	2021-11-21 10:35:32.818444	2021-11-21 10:35:32.818444	https://nofluffjobs.com/pl/job/remote-react-tech-lead-sii-polska-warszawa-7wlqvbst
+3853	18575	Omada	warszawa	Senior Front-end Developer for R&D	2021-11-21 10:35:32.821345	2021-11-21 10:35:32.821345	https://nofluffjobs.com/pl/job/senior-front-end-developer-for-r-d-omada-warszawa-eboqxjzr
+3854	24360	Link Group	warszawa	Fullstack (Angular&.NET) Developer	2021-11-21 10:35:32.824347	2021-11-21 10:35:32.824347	https://nofluffjobs.com/pl/job/fullstack-angular-net-developer-link-group-warszawa-9b8gcrff
+3855	14500	Redge Technologies Sp. z o.o.	warszawa	Remote Java Developer	2021-11-21 10:35:32.827874	2021-11-21 10:35:32.827874	https://nofluffjobs.com/pl/job/remote-java-developer-redge-technologies-warszawa-k76nrbla
+3856	15500	Athenasoft sp. z o.o.	warszawa	Senior Frontend Developer	2021-11-21 10:35:32.847629	2021-11-21 10:35:32.847629	https://nofluffjobs.com/pl/job/senior-frontend-developer-athenasoft-warszawa-3rxrl7sh
+3857	10500	Order Group Sp. z o.o.	warszawa	React Developer	2021-11-21 10:35:32.85216	2021-11-21 10:35:32.85216	https://nofluffjobs.com/pl/job/react-developer-order-group-warszawa-cjr4nr16
+3858	24360	Dynamic Solutions	warszawa	Senior Fullstack Java Developer	2021-11-21 10:35:32.855885	2021-11-21 10:35:32.855885	https://nofluffjobs.com/pl/job/senior-fullstack-java-developer-dynamic-solutions-warszawa-b84symnp
+3859	26250	RTB House	warszawa	Senior Fullstack Engineer (ML Platform)	2021-11-21 10:35:33.925796	2021-11-21 10:35:33.925796	https://nofluffjobs.com/pl/job/senior-fullstack-engineer-ml-platform-rtb-house-warszawa-uldqgg8f
+3860	21150	RTB House	warszawa	Remote Fullstack Developer - Team Apps	2021-11-21 10:35:33.947413	2021-11-21 10:35:33.947413	https://nofluffjobs.com/pl/job/remote-fullstack-developer-team-apps-rtb-house-warszawa-atgzhky2
+3861	12000	BMS	warszawa	Frontend Developer (Angular)	2021-11-21 10:35:33.951739	2021-11-21 10:35:33.951739	https://nofluffjobs.com/pl/job/frontend-developer-angular-bms-warszawa-ioaaadxw
+3862	20160	Clurgo Sp. z o.o.	warszawa	Senior Frontend Developer	2021-11-21 10:35:33.955371	2021-11-21 10:35:33.955371	https://nofluffjobs.com/pl/job/senior-frontend-developer-clurgo-warszawa-yo0uwg1r
+3863	21000	gravit.dev	warszawa	Remote Angular Developer	2021-11-21 10:35:33.961478	2021-11-21 10:35:33.961478	https://nofluffjobs.com/pl/job/remote-angular-developer-gravit-dev-warszawa-enpztud2
+3864	17950	Syncron Sp. z o.o.	warszawa	Java Fullstack Engineer	2021-11-21 10:35:33.965255	2021-11-21 10:35:33.965255	https://nofluffjobs.com/pl/job/java-fullstack-engineer-syncron-warszawa-wpqyje8b
+3865	12500	iteo sp. z o.o.	warszawa	Node.js Developer	2021-11-21 10:35:33.968678	2021-11-21 10:35:33.968678	https://nofluffjobs.com/pl/job/node-js-developer-iteo-warszawa-4d99s5tr
+3866	25250	Link Group	warszawa	Node.js Developer	2021-11-21 10:35:33.971766	2021-11-21 10:35:33.971766	https://nofluffjobs.com/pl/job/node-js-developer-link-group-warszawa-gayp8cf1
+3867	17500	Focusly	warszawa	Remote React native Developer	2021-11-21 10:35:33.975103	2021-11-21 10:35:33.975103	https://nofluffjobs.com/pl/job/remote-react-native-developer-focusly-warszawa-bde2ebug
+3868	24500	Devire	warszawa	Salesforce Developer	2021-11-21 10:35:33.978937	2021-11-21 10:35:33.978937	https://nofluffjobs.com/pl/job/salesforce-developer-devire-warszawa-k9j4xatf
+3869	15750	Onwelo	warszawa	Node.js Developer	2021-11-21 10:35:33.999554	2021-11-21 10:35:33.999554	https://nofluffjobs.com/pl/job/node-js-developer-onwelo-warszawa-hbr9grwt
+3870	21420	AVENGA	warszawa	.NET Developer	2021-11-21 10:35:34.005098	2021-11-21 10:35:34.005098	https://nofluffjobs.com/pl/job/net-developer-avenga-warsaw-0wquyw9j
+3871	15000	Devire	warszawa	Python Developer	2021-11-21 10:35:34.011565	2021-11-21 10:35:34.011565	https://nofluffjobs.com/pl/job/python-developer-devire-warszawa-mobhbycf
+3872	14700	Onwelo S.A.	warszawa	Front-end Developer	2021-11-21 10:35:34.01675	2021-11-21 10:35:34.01675	https://nofluffjobs.com/pl/job/front-end-developer-onwelo-warszawa-gsh2hk3i
+3873	15750	Onwelo S.A.	warszawa	Angular Developer	2021-11-21 10:35:34.022585	2021-11-21 10:35:34.022585	https://nofluffjobs.com/pl/job/angular-developer-onwelo-warszawa-afw0fcrt
+3874	16000	Spark	warszawa	Node Engineer	2021-11-21 10:35:34.02656	2021-11-21 10:35:34.02656	https://nofluffjobs.com/pl/job/node-engineer-spark-warszawa-nqhujhhd
+3875	21250	Team Connect	warszawa	Remote React/React Native Developer	2021-11-21 10:35:34.047468	2021-11-21 10:35:34.047468	https://nofluffjobs.com/pl/job/remote-react-react-native-developer-team-connect-warsaw-jfbcci6h
+3876	10750	HL Tech	warszawa	QA Engineer	2021-11-21 10:35:34.051847	2021-11-21 10:35:34.051847	https://nofluffjobs.com/pl/job/qa-engineer-hl-tech-warsaw-f4fnwhj0
+3877	16150	HL Tech	warszawa	Senior QA Engineer	2021-11-21 10:35:34.055621	2021-11-21 10:35:34.055621	https://nofluffjobs.com/pl/job/senior-qa-engineer-hl-tech-warsaw-q1w8ardv
+3878	15000	Citi Service Center	warszawa	Frontend Developer	2021-11-21 10:35:34.058483	2021-11-21 10:35:34.058483	https://nofluffjobs.com/pl/job/frontend-developer-citi-service-center-warszawa-hweemaez
+3879	10500	Adamed Pharma S.A.	warszawa	Mid Front-end Developer	2021-11-21 10:35:35.097676	2021-11-21 10:35:35.097676	https://nofluffjobs.com/pl/job/mid-front-end-developer-adamed-pharma-warszawa-ljrlmfrk
+3880	13500	Ringier Axel Springer Tech	warszawa	PHP Engineer	2021-11-21 10:35:35.10198	2021-11-21 10:35:35.10198	https://nofluffjobs.com/pl/job/php-engineer-ringier-axel-springer-tech-warszawa-jtb5eggd
+3881	24780	Link Group	warszawa	Senior Angular Developer	2021-11-21 10:35:35.105365	2021-11-21 10:35:35.105365	https://nofluffjobs.com/pl/job/senior-angular-developer-link-group-warszawa-3bushrym
+3882	17500	PhotoAiD	warszawa	Remote React Developer	2021-11-21 10:35:35.110982	2021-11-21 10:35:35.110982	https://nofluffjobs.com/pl/job/remote-react-developer-photoaid-warszawa-ig1p7g1w
+3883	16000	PhotoAiD	warszawa	Remote Fullstack Developer	2021-11-21 10:35:35.114273	2021-11-21 10:35:35.114273	https://nofluffjobs.com/pl/job/remote-fullstack-developer-photoaid-warszawa-oramsndi
+3884	21500	Superdevs Sp. z o.o.	warszawa	Remote React Native Developer	2021-11-21 10:35:35.117349	2021-11-21 10:35:35.117349	https://nofluffjobs.com/pl/job/remote-react-native-developer-superdevs-warszawa-0lwqyctz
+3885	23000	Synergy Sports	warszawa	Senior Full-Stack (React) Engineer	2021-11-21 10:35:35.120761	2021-11-21 10:35:35.120761	https://nofluffjobs.com/pl/job/senior-full-stack-react-engineer-synergy-sports-warszawa-8vj3nuil
+3886	12000	ESCOLA	warszawa	React Frontend Developer (Mid / Senior)	2021-11-21 10:35:35.124553	2021-11-21 10:35:35.124553	https://nofluffjobs.com/pl/job/react-frontend-developer-mid-senior-escola-warszawa-ghdybz8h
+3887	20160	Spyrosoft	warszawa	Frontend Developer (React)	2021-11-21 10:35:35.128617	2021-11-21 10:35:35.128617	https://nofluffjobs.com/pl/job/frontend-developer-react-spyrosoft-warszawa-v9ukw6rn
+3888	7500	Clos Brothers SA	warszawa	Junior Frontend Developer	2021-11-21 10:35:35.149518	2021-11-21 10:35:35.149518	https://nofluffjobs.com/pl/job/junior-frontend-developer-clos-brothers-warsaw-cxl5prd6
+3889	12500	Sagenso	warszawa	Frontend Developer	2021-11-21 10:35:35.154023	2021-11-21 10:35:35.154023	https://nofluffjobs.com/pl/job/frontend-developer-sagenso-warszawa-th1vihdu
+3890	21000	EcoVadis Polska Sp. z o. o.	warszawa	Senior Frontend Developer	2021-11-21 10:35:35.159962	2021-11-21 10:35:35.159962	https://nofluffjobs.com/pl/job/senior-frontend-developer-ecovadis-polska-warszawa-bgtu4pji
+3891	16500	COMP S.A.	warszawa	Senior Developer/Tech Lead	2021-11-21 10:35:35.166006	2021-11-21 10:35:35.166006	https://nofluffjobs.com/pl/job/senior-developer-tech-lead-comp-warszawa-hdyhtbiq
+3892	17750	Britenet	warszawa	Remote Frontend Angular Developer	2021-11-21 10:35:35.169765	2021-11-21 10:35:35.169765	https://nofluffjobs.com/pl/job/remote-frontend-angular-developer-britenet-warszawa-umi84oyd
+3893	22890	apreel Sp. z o.o.	warszawa	Remote Frontend Developer (React)	2021-11-21 10:35:35.174954	2021-11-21 10:35:35.174954	https://nofluffjobs.com/pl/job/remote-frontend-developer-react-apreel-warszawa-yejwirlj
+3894	8000	DahliaMatic Sp. z o.o.	warszawa	Junior Frontend Developer (Angular)	2021-11-21 10:35:35.178286	2021-11-21 10:35:35.178286	https://nofluffjobs.com/pl/job/junior-frontend-developer-angular-dahliamatic-warszawa-tsszccfr
+3895	22500	Superdevs Sp. z o.o.	warszawa	Senior React Developer	2021-11-21 10:35:35.197368	2021-11-21 10:35:35.197368	https://nofluffjobs.com/pl/job/senior-react-developer-superdevs-warszawa-sfoszstt
+3896	20190	dotData, Inc.	warszawa	Product Level Test Automation Engineer	2021-11-21 10:35:35.202494	2021-11-21 10:35:35.202494	https://nofluffjobs.com/pl/job/product-level-test-automation-engineer-dotdata-warsaw-d9o4iywe
+3897	20000	Freeport Metrics	warszawa	Senior/Lead Java Fullstack Developer	2021-11-21 10:35:35.206667	2021-11-21 10:35:35.206667	https://nofluffjobs.com/pl/job/senior-lead-java-fullstack-developer-freeport-metrics-warsaw-gv65yma4
+3898	29350	QualityMinds Sp. z o.o.	warszawa	Senior Fullstack Developer	2021-11-21 10:35:36.097317	2021-11-21 10:35:36.097317	https://nofluffjobs.com/pl/job/senior-fullstack-developer-qualityminds-warsaw-dmkhd1vk
+3899	19250	FRIDAY	warszawa	React Developer	2021-11-21 10:35:36.100989	2021-11-21 10:35:36.100989	https://nofluffjobs.com/pl/job/react-developer-friday-warsaw-1jktbolg
+3900	11000	AXA Avanssur SA Spółka Akcyjna Oddział II w Polsce	warszawa	Test Automation Engineer	2021-11-21 10:35:36.104599	2021-11-21 10:35:36.104599	https://nofluffjobs.com/pl/job/test-automation-engineer-axa-avanssurspolka-akcyjna-oddzial-ii-w-polsce-warszawa-xjdhvgpj
+3901	18500	Applause	warszawa	Fullstack Software Engineer	2021-11-21 10:35:36.10753	2021-11-21 10:35:36.10753	https://nofluffjobs.com/pl/job/fullstack-software-engineer-applause-warszawa-6ewebokd
+3902	18480	Divante	warszawa	Remote Node.js Developer	2021-11-21 10:35:36.110644	2021-11-21 10:35:36.110644	https://nofluffjobs.com/pl/job/remote-node-js-developer-divante-warszawa-targfmsp
+3903	10250	AXA Avanssur SA Spółka Akcyjna Oddział II w Polsce	warszawa	Frontend Developer (Web Designer)	2021-11-21 10:35:36.11582	2021-11-21 10:35:36.11582	https://nofluffjobs.com/pl/job/frontend-developer-web-designer-axa-avanssurspolka-akcyjna-oddzial-ii-w-polsce-warszawa-7ozeqtge
+3904	16500	Link Group	warszawa	Remote React Native Developer	2021-11-21 10:35:36.118744	2021-11-21 10:35:36.118744	https://nofluffjobs.com/pl/job/remote-react-native-developer-link-group-warsaw-hxzbqhwj
+3905	14500	Talent Place	warszawa	Java Developer	2021-11-21 10:35:36.12289	2021-11-21 10:35:36.12289	https://nofluffjobs.com/pl/job/java-developer-talent-place-warszawa-lkrjcvhv
+3906	20000	ITMAGINATION	warszawa	Node Developer	2021-11-21 10:35:36.126324	2021-11-21 10:35:36.126324	https://nofluffjobs.com/pl/job/node-developer-itmagination-warsaw-dfbfdq6o
+3907	15000	Amartus Polska Sp. z o.o.	krakow	Frontend Developer	2021-11-21 10:35:38.004147	2021-11-21 10:35:38.004147	https://nofluffjobs.com/pl/job/frontend-developer-amartus-polska-krakow-nbirxrol
+3908	16000	Appliscale	krakow	Senior Fullstack JavaScript Developer	2021-11-21 10:35:38.010779	2021-11-21 10:35:38.010779	https://nofluffjobs.com/pl/job/senior-fullstack-javascript-developer-appliscale-krakow-xgnlb0nq
+3909	12000	Strix	krakow	JavaScript Developer	2021-11-21 10:35:38.022842	2021-11-21 10:35:38.022842	https://nofluffjobs.com/pl/job/javascript-developer-strix-krakow-degnwg00
+3910	23750	Beekeeper AG	krakow	Frontend Software Engineer	2021-11-21 10:35:38.047093	2021-11-21 10:35:38.047093	https://nofluffjobs.com/pl/job/frontend-software-engineer-beekeeper-krakow-fhnp75pf
+3911	18500	antsolutions.eu	krakow	Senior Fullstack Developer	2021-11-21 10:35:38.053687	2021-11-21 10:35:38.053687	https://nofluffjobs.com/pl/job/senior-fullstack-developer-antsolutions-eu-krakow-ylt9af6r
+3912	17640	INUITS	krakow	Remote Frontend Developer- Vue.js	2021-11-21 10:35:38.068585	2021-11-21 10:35:38.068585	https://nofluffjobs.com/pl/job/remote-frontend-developer-vue-js-inuits-krakow-gefuuhkx
+3913	8750	BRAINLY	krakow	Junior Front-end Engineer	2021-11-21 10:35:39.465525	2021-11-21 10:35:39.465525	https://nofluffjobs.com/pl/job/junior-front-end-engineer-brainly-krakow-l28ckyf5
+3914	17500	Better Collective	krakow	JavaScript Developer	2021-11-21 10:35:39.476205	2021-11-21 10:35:39.476205	https://nofluffjobs.com/pl/job/javascript-developer-better-collective-krakow-yfa7ui9z
+3915	11250	EPAM	krakow	JavaScript Developer	2021-11-21 10:35:39.513685	2021-11-21 10:35:39.513685	https://nofluffjobs.com/pl/job/javascript-developer-epam-krakow-itinlmsn
+3916	9750	4 The Player	krakow	Junior/Mid JavaScript Developer	2021-11-21 10:35:39.524778	2021-11-21 10:35:39.524778	https://nofluffjobs.com/pl/job/junior-mid-javascript-developer-4-the-player-krakow-tkp9sc6d
+3917	15960	Codibly	krakow	Regular Fullstack Developer React&Node	2021-11-21 10:35:39.554267	2021-11-21 10:35:39.554267	https://nofluffjobs.com/pl/job/regular-fullstack-developer-react-node-codibly-krakow-oasg9sy3
+3918	22680	Codibly	krakow	Senior Fullstack Developer React&Node.js	2021-11-21 10:35:39.560696	2021-11-21 10:35:39.560696	https://nofluffjobs.com/pl/job/senior-fullstack-developer-react-node-js-codibly-krakow-ofinqz6n
+3919	13000	Brainly	krakow	Front-End Software Engineer	2021-11-21 10:35:39.572334	2021-11-21 10:35:39.572334	https://nofluffjobs.com/pl/job/front-end-software-engineer-brainly-krakow-qo7hjj9o
+3920	22680	Crodu	krakow	Senior Fullstack Developer	2021-11-21 10:35:39.597133	2021-11-21 10:35:39.597133	https://nofluffjobs.com/pl/job/senior-fullstack-developer-crodu-krakow-zoeadh5f
+3921	21000	From Poland With Dev	krakow	Fullstack Dev React/PHP (learn Go)	2021-11-21 10:35:40.549423	2021-11-21 10:35:40.549423	https://nofluffjobs.com/pl/job/fullstack-dev-react-php-learn-go-from-poland-with-dev-krakow-c8jbglgv
+3922	16250	TechnipFMC	krakow	Full-stack Developer (Material Manag.)	2021-11-21 10:35:40.559319	2021-11-21 10:35:40.559319	https://nofluffjobs.com/pl/job/full-stack-developer-material-manag-technipfmc-krakow-nrtmuwhx
+3923	15125	INUITS	krakow	Remote QA Automation Engineer	2021-11-21 10:35:40.565708	2021-11-21 10:35:40.565708	https://nofluffjobs.com/pl/job/remote-qa-automation-engineer-inuits-krakow-skbf49cr
+3924	12250	Akamai	krakow	Software Development Engineer in Test	2021-11-21 10:35:40.572652	2021-11-21 10:35:40.572652	https://nofluffjobs.com/pl/job/software-development-engineer-in-test-akamai-krakow-8tkm4iya
+3925	17500	YooniQ solutions	krakow	Frontend Developer (React)	2021-11-21 10:35:40.578889	2021-11-21 10:35:40.578889	https://nofluffjobs.com/pl/job/frontend-developer-react-yooniq-solutions-krakow-1ylaafr4
+3926	17750	FLYR Poland sp.z.o.o	krakow	Fullstack Engineer	2021-11-21 10:35:40.605006	2021-11-21 10:35:40.605006	https://nofluffjobs.com/pl/job/fullstack-engineer-flyr-poland-krakow-zaozn1cg
+3927	21420	Forte Digital	krakow	Senior Fullstack .NET Developer	2021-11-21 10:35:40.608887	2021-11-21 10:35:40.608887	https://nofluffjobs.com/pl/job/senior-fullstack-net-developer-forte-digital-krakow-iaixnpkr
+3928	18000	Grid Dynamics	krakow	Fullstack .NET Engineer	2021-11-21 10:35:40.616062	2021-11-21 10:35:40.616062	https://nofluffjobs.com/pl/job/fullstack-net-engineer-grid-dynamics-krakow-j8iy97u6
+3929	18000	Codest Ltd.	krakow	Senior Vue.js Developer	2021-11-21 10:35:41.763494	2021-11-21 10:35:41.763494	https://nofluffjobs.com/pl/job/senior-vue-js-developer-codest-ltd-krakow-nq502cwf
+3930	18000	Codest Ltd.	krakow	Senior React Developer	2021-11-21 10:35:41.769386	2021-11-21 10:35:41.769386	https://nofluffjobs.com/pl/job/senior-react-developer-codest-ltd-krakow-mjym3nkd
+3931	19500	Andersen	krakow	Angular Developer	2021-11-21 10:35:41.772395	2021-11-21 10:35:41.772395	https://nofluffjobs.com/pl/job/angular-developer-andersen-krakow-djvgvz1n
+3932	15000	Andersen	krakow	Front-end Developer (React)	2021-11-21 10:35:41.776245	2021-11-21 10:35:41.776245	https://nofluffjobs.com/pl/job/front-end-developer-react-andersen-krakow-luwkkfbs
+3933	15000	Branchspace sp. z o.o.	krakow	React Native Developer	2021-11-21 10:35:41.79918	2021-11-21 10:35:41.79918	https://nofluffjobs.com/pl/job/react-native-developer-branchspace-krakow-ddxjtg6i
+3934	11500	Avantida Poland Sp. z o.o.	krakow	Fullstack .NET Developer	2021-11-21 10:35:41.803435	2021-11-21 10:35:41.803435	https://nofluffjobs.com/pl/job/fullstack-net-developer-avantida-poland-krakow-jkcmrwl7
+3935	8000	Azimo Limited Sp.z o.o.	krakow	Junior Frontend Software Engineer	2021-11-21 10:35:41.809493	2021-11-21 10:35:41.809493	https://nofluffjobs.com/pl/job/junior-frontend-software-engineer-azimo-limited-krakow-d4q62h3x
+3936	15000	Tango	krakow	React Frontend Developer	2021-11-21 10:35:41.813919	2021-11-21 10:35:41.813919	https://nofluffjobs.com/pl/job/react-frontend-developer-tango-krakow-73icbpfn
+3937	17500	SaldeoSMART	krakow	React Native Developer	2021-11-21 10:35:41.821359	2021-11-21 10:35:41.821359	https://nofluffjobs.com/pl/job/react-native-developer-saldeosmart-krakow-zaf6nhwr
+3938	14400	Cisco Systems	krakow	AppDynamics Java Support Engineer	2021-11-21 10:35:41.824366	2021-11-21 10:35:41.824366	https://nofluffjobs.com/pl/job/appdynamics-java-support-engineer-cisco-systems-krakow-ldqxt7mt
+3939	25620	gravity9	krakow	Frontend Developer (React.js)	2021-11-21 10:35:41.828011	2021-11-21 10:35:41.828011	https://nofluffjobs.com/pl/job/frontend-developer-react-js-gravity9-krakow-blo4uqv9
+3940	17220	Avanade Poland	krakow	Senior Front-End Developer	2021-11-21 10:35:41.847656	2021-11-21 10:35:41.847656	https://nofluffjobs.com/pl/job/senior-front-end-developer-avanade-poland-krakow-jckblfsl
+3941	11000	AMS	krakow	Internal Support Software Engineer	2021-11-21 10:35:41.853879	2021-11-21 10:35:41.853879	https://nofluffjobs.com/pl/job/internal-support-software-engineer-ams-krakow-9q6okqgm
+3942	22000	Kontakt.io	krakow	Senior QA Engineer (Python)	2021-11-21 10:35:41.856855	2021-11-21 10:35:41.856855	https://nofluffjobs.com/pl/job/senior-qa-engineer-python-kontakt-io-krakow-isixkqsi
+3943	16500	Onwelo S.A.	krakow	Frontend Developer	2021-11-21 10:35:42.926256	2021-11-21 10:35:42.926256	https://nofluffjobs.com/pl/job/frontend-developer-onwelo-krakow-tk2eejzh
+3944	19500	Kahoot!	krakow	Senior Frontend Developer	2021-11-21 10:35:42.950145	2021-11-21 10:35:42.950145	https://nofluffjobs.com/pl/job/senior-frontend-developer-kahoot-krakow-wed3dv1w
+3945	22250	SpotOn	krakow	Senior React Developer	2021-11-21 10:35:42.954274	2021-11-21 10:35:42.954274	https://nofluffjobs.com/pl/job/senior-react-developer-spoton-cracow-rcybneto
+3946	25620	gravity9	krakow	Fullstack .NET Developer (React/Angular)	2021-11-21 10:35:42.957735	2021-11-21 10:35:42.957735	https://nofluffjobs.com/pl/job/fullstack-net-developer-react-angular-gravity9-krakow-jwmzkeo7
+3947	26460	Gnxcor	krakow	Remote Fullstack Java Developer	2021-11-21 10:35:42.965986	2021-11-21 10:35:42.965986	https://nofluffjobs.com/pl/job/remote-fullstack-java-developer-gnxcor-krakow-rkaeb9mm
+3948	16000	GlobalLogic	krakow	Lead QA Test Automation	2021-11-21 10:35:42.97322	2021-11-21 10:35:42.97322	https://nofluffjobs.com/pl/job/lead-qa-test-automation-globallogic-krakow-rrlyn5nw
+3949	16380	Primetals Technologies Poland Sp. z o. o.	krakow	Frontend Developer	2021-11-21 10:35:42.977476	2021-11-21 10:35:42.977476	https://nofluffjobs.com/pl/job/frontend-developer-primetals-technologies-poland-krakow-t6pcdqyc
+3950	9250	Shoper S.A	krakow	WordPress Developer	2021-11-21 10:35:42.997561	2021-11-21 10:35:42.997561	https://nofluffjobs.com/pl/job/wordpress-developer-shoper-krakow-fhx6fodc
+3951	25000	From Poland With Dev	krakow	Lead React Native Developer (greenfield)	2021-11-21 10:35:43.004948	2021-11-21 10:35:43.004948	https://nofluffjobs.com/pl/job/lead-react-native-developer-greenfield-from-poland-with-dev-krakow-hzz2ovib
+3952	18000	Frontiers	krakow	Fullstack .NET Engineer	2021-11-21 10:35:43.008286	2021-11-21 10:35:43.008286	https://nofluffjobs.com/pl/job/fullstack-net-engineer-frontiers-krakow-r3erxkyg
+3953	21000	Frontiers	krakow	Frontend Developer	2021-11-21 10:35:43.011636	2021-11-21 10:35:43.011636	https://nofluffjobs.com/pl/job/frontend-developer-frontiers-krakow-efg9v5of
+3954	17000	4Soft	krakow	Node.js Backend Developer	2021-11-21 10:35:43.018924	2021-11-21 10:35:43.018924	https://nofluffjobs.com/pl/job/node-js-backend-developer-4soft-krakow-pjmpxvo2
+3955	16750	SoftServe	krakow	Remote Java Engineer	2021-11-21 10:35:43.022094	2021-11-21 10:35:43.022094	https://nofluffjobs.com/pl/job/remote-java-engineer-softserve-krakow-afrtieul
+3956	12500	Amsterdam Standard Sp. z o.o.	krakow	Vue.js Developer	2021-11-21 10:35:44.054644	2021-11-21 10:35:44.054644	https://nofluffjobs.com/pl/job/vue-js-developer-amsterdam-standard-krakow-brdml1bo
+3957	17220	Avanade Poland	krakow	Node.Js Developer	2021-11-21 10:35:44.061304	2021-11-21 10:35:44.061304	https://nofluffjobs.com/pl/job/node-js-developer-avanade-poland-krakow-cky8e2fe
+3958	18250	PCMI Corporation	krakow	Senior Fullstack .NET Developer	2021-11-21 10:35:44.065539	2021-11-21 10:35:44.065539	https://nofluffjobs.com/pl/job/senior-fullstack-net-developer-pcmi-corporation-krakow-4mt7i3vg
+3959	17220	Avanade Poland	krakow	Senior React.js Developer	2021-11-21 10:35:44.071957	2021-11-21 10:35:44.071957	https://nofluffjobs.com/pl/job/senior-react-js-developer-avanade-poland-krakow-lsp55vor
+3960	25620	AVENGA	krakow	Technical Product Manager	2021-11-21 10:35:44.075287	2021-11-21 10:35:44.075287	https://nofluffjobs.com/pl/job/technical-product-manager-avenga-krakow-uw1eizid
+3961	14364	Codibly	krakow	Regular Frontend Developer (React)	2021-11-21 10:35:44.078352	2021-11-21 10:35:44.078352	https://nofluffjobs.com/pl/job/regular-frontend-developer-react-codibly-krakow-h3hc5ajd
+3962	16000	VirtusLab	krakow	Frontend Engineer	2021-11-21 10:35:44.111526	2021-11-21 10:35:44.111526	https://nofluffjobs.com/pl/job/frontend-engineer-virtuslab-krakow-mxgvsnbk
+3963	22250	SpotOn	krakow	Senior Full-stack Developer	2021-11-21 10:35:44.114749	2021-11-21 10:35:44.114749	https://nofluffjobs.com/pl/job/senior-full-stack-developer-spoton-krakow-xg4afxjh
+3964	24000	vonRoll Infratec.com	krakow	Senior Frontend Developer (Web / Mobile)	2021-11-21 10:35:44.118041	2021-11-21 10:35:44.118041	https://nofluffjobs.com/pl/job/senior-frontend-developer-web-mobile-vonroll-infratec-com-krakow-arzfctx0
+3965	19600	Grape Up	krakow	Fullstack Python Developer	2021-11-21 10:35:45.097516	2021-11-21 10:35:45.097516	https://nofluffjobs.com/pl/job/fullstack-python-developer-grape-up-krakow-a2etjb0m
+3966	14500	SpotOn	krakow	QA Engineer	2021-11-21 10:35:45.11701	2021-11-21 10:35:45.11701	https://nofluffjobs.com/pl/job/qa-engineer-spoton-krakow-9ms8eam2
+3967	27000	NFQ	krakow	Software Engineer (React)	2021-11-21 10:35:45.122167	2021-11-21 10:35:45.122167	https://nofluffjobs.com/pl/job/software-engineer-react-nfq-krakow-0rnwvms4
+3968	21500	From Poland With Dev	krakow	Node Dev | mały team | e-learning	2021-11-21 10:35:45.126006	2021-11-21 10:35:45.126006	https://nofluffjobs.com/pl/job/node-dev-maly-team-e-learning-from-poland-with-dev-krakow-isbg25wq
+3969	10000	Pirios S.A.	krakow	Web .NET Developer	2021-11-21 10:35:45.147493	2021-11-21 10:35:45.147493	https://nofluffjobs.com/pl/job/web-net-developer-pirios-krakow-rj76v2a6
+3970	16044	NoA Ignite Polska	krakow	Frontend Developer (React.js)	2021-11-21 10:35:45.151724	2021-11-21 10:35:45.151724	https://nofluffjobs.com/pl/job/frontend-developer-react-js-noa-ignite-polska-krakow-mpr8uuzh
+3971	19656	NoA Ignite Polska	krakow	Senior Frontend Developer (React.js)	2021-11-21 10:35:45.15596	2021-11-21 10:35:45.15596	https://nofluffjobs.com/pl/job/senior-frontend-developer-react-js-noa-ignite-polska-krakow-npk2fyg7
+3972	28560	ProData Consult	krakow	Senior Frontend Developer	2021-11-21 10:35:45.162371	2021-11-21 10:35:45.162371	https://nofluffjobs.com/pl/job/senior-frontend-developer-prodata-consult-krakow-wmwjgxza
+3973	18000	Clearcode	wroclaw	Senior JavaScript Developer	2021-11-21 10:35:47.869065	2021-11-21 10:35:47.869065	https://nofluffjobs.com/pl/job/senior-javascript-developer-clearcode-wroclaw-6a7kncix
+3974	10750	Clearcode	wroclaw	JavaScript Developer	2021-11-21 10:35:47.872632	2021-11-21 10:35:47.872632	https://nofluffjobs.com/pl/job/javascript-developer-clearcode-wroclaw-v8wlznck
+3975	16500	Capgemini	wroclaw	Senior/Expert Full Stack Web Developer	2021-11-21 10:35:47.879717	2021-11-21 10:35:47.879717	https://nofluffjobs.com/pl/job/senior-expert-full-stack-web-developer-capgemini-wroclaw-p2bx4xsq
+3976	11500	Capgemini	wroclaw	Mid Full Stack Web Developer	2021-11-21 10:35:47.900165	2021-11-21 10:35:47.900165	https://nofluffjobs.com/pl/job/mid-full-stack-web-developer-capgemini-wroclaw-wv6brshd
+3977	12750	Brainly	wroclaw	Front-end Engineer (Subscriptions)	2021-11-21 10:35:47.915336	2021-11-21 10:35:47.915336	https://nofluffjobs.com/pl/job/front-end-engineer-subscriptions-brainly-wroclaw-mli7ythl
+3978	8250	Hemmersbach GmbH & Co. KG,  (Społka Komandytowa) Oddział w Polsce	wroclaw	SOFTWARE DEVELOPER (JS/PHP)	2021-11-21 10:35:47.919472	2021-11-21 10:35:47.919472	https://nofluffjobs.com/pl/job/software-developer-js-php-hemmersbach-co-kg-spolka-komandytowa-oddzial-w-polsce-wroclaw-hgz2meay
+3979	19500	PGS Software S.A.	wroclaw	Senior Frontend Developer	2021-11-21 10:35:47.925335	2021-11-21 10:35:47.925335	https://nofluffjobs.com/pl/job/senior-frontend-developer-pgs-software-wroclaw-77cwzyvj
+3980	14000	PGS Software S.A.	wroclaw	Frontend Developer	2021-11-21 10:35:47.928548	2021-11-21 10:35:47.928548	https://nofluffjobs.com/pl/job/frontend-developer-pgs-software-wroclaw-nefwci5j
+3981	17250	LiveChat Software S.A.	wroclaw	Frontend Developer: Choose Your Way	2021-11-21 10:35:47.950311	2021-11-21 10:35:47.950311	https://nofluffjobs.com/pl/job/frontend-developer-choose-your-way-livechat-software-wroclaw-wtf4ntvd
+3982	21000	AVENGA	wroclaw	Fullstack Developer	2021-11-21 10:35:49.897774	2021-11-21 10:35:49.897774	https://nofluffjobs.com/pl/job/fullstack-developer-avenga-wroclaw-8nvltndy
+3983	23100	Dunning, Kruger & Associates Sp. z o.o.	wroclaw	Frontend Developer	2021-11-21 10:35:49.902146	2021-11-21 10:35:49.902146	https://nofluffjobs.com/pl/job/frontend-developer-dunning-kruger-associates-wroclaw-7ku97gnq
+3984	14500	eobuwie.pl	wroclaw	Frontend Developer	2021-11-21 10:35:49.915867	2021-11-21 10:35:49.915867	https://nofluffjobs.com/pl/job/frontend-developer-eobuwie-pl-wroclaw-jlgdkkpj
+3985	14500	Tooploox	wroclaw	Back-end Node.js Engineer (Regular)	2021-11-21 10:35:49.923172	2021-11-21 10:35:49.923172	https://nofluffjobs.com/pl/job/back-end-node-js-engineer-regular-tooploox-wroclaw-i3hcrw2m
+3986	13000	Bitnoise	wroclaw	JavaScript Developer	2021-11-21 10:35:49.931349	2021-11-21 10:35:49.931349	https://nofluffjobs.com/pl/job/javascript-developer-bitnoise-wroclaw-es0j9yx0
+3987	19500	MasterBorn	wroclaw	Senior Frontend Developer (React.js)	2021-11-21 10:35:49.964951	2021-11-21 10:35:49.964951	https://nofluffjobs.com/pl/job/senior-frontend-developer-react-js-masterborn-wroclaw-efu5izdu
+3988	12500	MasterBorn	wroclaw	Middle Frontend Developer (React.js)	2021-11-21 10:35:50.947843	2021-11-21 10:35:50.947843	https://nofluffjobs.com/pl/job/middle-frontend-developer-react-js-masterborn-wroclaw-ct8funmp
+3989	20500	MasterBorn	wroclaw	Senior Backend Developer (Node.js)	2021-11-21 10:35:50.952676	2021-11-21 10:35:50.952676	https://nofluffjobs.com/pl/job/senior-backend-developer-node-js-masterborn-wroclaw-p8pqomjj
+3990	13500	MasterBorn	wroclaw	Middle Backend Developer (Node.js)	2021-11-21 10:35:50.956269	2021-11-21 10:35:50.956269	https://nofluffjobs.com/pl/job/middle-backend-developer-node-js-masterborn-wroclaw-tepqbuhd
+3991	16500	Wyższa Szkoła Kształcenia Zawodowego	wroclaw	Front-End Dev (Mid/Senior/ TechLead)	2021-11-21 10:35:50.961234	2021-11-21 10:35:50.961234	https://nofluffjobs.com/pl/job/front-end-dev-mid-senior-techlead-wyzsza-szkola-ksztalcenia-zawodowego-wroclaw-8iqxfdwt
+3992	14500	Ulam Labs	wroclaw	Frontend Developer	2021-11-21 10:35:50.965457	2021-11-21 10:35:50.965457	https://nofluffjobs.com/pl/job/frontend-developer-ulam-labs-wroclaw-ee2jhbwg
+3993	10500	itertatec sp. z o.o.	wroclaw	Fullstack Java/JavaScript Developer	2021-11-21 10:35:50.971881	2021-11-21 10:35:50.971881	https://nofluffjobs.com/pl/job/fullstack-java-javascript-developer-itertatec-wroclaw-499enxsh
+3994	17000	Align Technologies	wroclaw	Senior Fullstack Developer	2021-11-21 10:35:50.9786	2021-11-21 10:35:50.9786	https://nofluffjobs.com/pl/job/senior-fullstack-developer-align-technologies-wroclaw-1bvm62gh
+3995	18900	Divante SA	wroclaw	Remote JavaScript Developer	2021-11-21 10:35:51.00021	2021-11-21 10:35:51.00021	https://nofluffjobs.com/pl/job/remote-javascript-developer-divante-wroclaw-qym6qzuw
+3996	14952	Divante SA	wroclaw	Frontend Magento 2 Developer	2021-11-21 10:35:51.005507	2021-11-21 10:35:51.005507	https://nofluffjobs.com/pl/job/frontend-magento-2-developer-divante-wroclaw-itmbm2mq
+3997	14500	Callstack	wroclaw	Remote React Native Developer	2021-11-21 10:35:51.019976	2021-11-21 10:35:51.019976	https://nofluffjobs.com/pl/job/remote-react-native-developer-callstack-wroclaw-28sjcu27
+3998	20500	Callstack	wroclaw	Remote Senior React Native Developer	2021-11-21 10:35:51.973821	2021-11-21 10:35:51.973821	https://nofluffjobs.com/pl/job/remote-senior-react-native-developer-callstack-wroclaw-lf2y38qq
+3999	21525	Next IT Poland	wroclaw	Senior .NET Developer Cloud	2021-11-21 10:35:51.977586	2021-11-21 10:35:51.977586	https://nofluffjobs.com/pl/job/senior-net-developer-cloud-next-it-poland-wroclaw-skibxdfv
+4000	7000	Objectivity	wroclaw	Junior .NET Software Engineer	2021-11-21 10:35:51.998394	2021-11-21 10:35:51.998394	https://nofluffjobs.com/pl/job/junior-net-software-engineer-objectivity-wroclaw-e9ypqvtg
+4001	14500	ANIXE	wroclaw	React Software Engineer	2021-11-21 10:35:52.003428	2021-11-21 10:35:52.003428	https://nofluffjobs.com/pl/job/react-software-engineer-anixe-wroclaw-fh1ndytd
+4002	20500	PRUFTECHNIK Technology, a FLUKE Reliability company	wroclaw	Principal Frontend Developer	2021-11-21 10:35:52.008046	2021-11-21 10:35:52.008046	https://nofluffjobs.com/pl/job/principal-frontend-developer-pruftechnik-technology-a-fluke-reliability-company-wroclaw-ism2xpnl
+4003	10000	Recruitee	wroclaw	Frontend Developer with Angular (Junior)	2021-11-21 10:35:52.012414	2021-11-21 10:35:52.012414	https://nofluffjobs.com/pl/job/frontend-developer-with-angular-junior-recruitee-wroclaw-7xaxx2pq
+4004	19000	Saleor Commerce	wroclaw	React Frontend Developer	2021-11-21 10:35:52.020325	2021-11-21 10:35:52.020325	https://nofluffjobs.com/pl/job/react-frontend-developer-saleor-commerce-wroclaw-dnpmual5
+4005	26460	Grasza Consulting	wroclaw	Remote AWS Security Engineer	2021-11-21 10:35:52.023908	2021-11-21 10:35:52.023908	https://nofluffjobs.com/pl/job/remote-aws-security-engineer-grasza-consulting-wroclaw-8u9lnldp
+4006	20000	Ingrid	wroclaw	Senior Frontend Engineer (React)	2021-11-21 10:35:52.027955	2021-11-21 10:35:52.027955	https://nofluffjobs.com/pl/job/senior-frontend-engineer-react-ingrid-wroclaw-2ktjpspi
+4007	9750	Objectivity	wroclaw	.Net Software Engineer	2021-11-21 10:35:52.047692	2021-11-21 10:35:52.047692	https://nofluffjobs.com/pl/job/net-software-engineer-objectivity-wroclaw-hkw2mcmn
+4008	20500	PRUFTECHNIK Technology, a FLUKE Reliability company	wroclaw	JAVA Tech Leader	2021-11-21 10:35:52.053728	2021-11-21 10:35:52.053728	https://nofluffjobs.com/pl/job/java-tech-leader-pruftechnik-technology-a-fluke-reliability-company-wroclaw-fcf5pxln
+4009	15500	NetworkedAssets Sp. z o.o.	wroclaw	Senior Fullstack Developer (Kotlin/Vue)	2021-11-21 10:35:52.061893	2021-11-21 10:35:52.061893	https://nofluffjobs.com/pl/job/senior-fullstack-developer-kotlin-vue-networkedassets-wroclaw-dqzd1yny
+4010	10500	NetworkedAssets Sp. z o.o.	wroclaw	Software Developer	2021-11-21 10:35:52.065798	2021-11-21 10:35:52.065798	https://nofluffjobs.com/pl/job/software-developer-networkedassets-wroclaw-tqhttj7c
+4011	16500	Benefit Systems SA	wroclaw	Senior Fronted Developer	2021-11-21 10:35:53.071974	2021-11-21 10:35:53.071974	https://nofluffjobs.com/pl/job/senior-fronted-developer-benefit-systems-wroclaw-jtu1orht
+4012	19320	Sigma IT Poland	wroclaw	Senior Frontend Developer	2021-11-21 10:35:53.099418	2021-11-21 10:35:53.099418	https://nofluffjobs.com/pl/job/senior-frontend-developer-sigma-it-poland-wroclaw-fnla0sdz
+4013	19000	Infor Polska	wroclaw	Senior Frontend Developer	2021-11-21 10:35:53.102844	2021-11-21 10:35:53.102844	https://nofluffjobs.com/pl/job/senior-frontend-developer-infor-polska-wroclaw-cwcr9pij
+4014	15000	BaseLinker	wroclaw	Remote PHP Developer	2021-11-21 10:35:53.105758	2021-11-21 10:35:53.105758	https://nofluffjobs.com/pl/job/remote-php-developer-baselinker-wroclaw-at4wli9x
+4015	17220	ValueLogic Sp. z o.o.	wroclaw	Senior/Fullstack Developer	2021-11-21 10:35:53.108878	2021-11-21 10:35:53.108878	https://nofluffjobs.com/pl/job/senior-fullstack-developer-valuelogic-wroclaw-drcej7wi
+4016	12500	Devqube	wroclaw	Remote Frontend Developer	2021-11-21 10:35:53.1126	2021-11-21 10:35:53.1126	https://nofluffjobs.com/pl/job/remote-frontend-developer-devqube-wroclaw-uxffvc9v
+4017	25000	Centra	wroclaw	Frontend Engineering Manager (React)	2021-11-21 10:35:53.12093	2021-11-21 10:35:53.12093	https://nofluffjobs.com/pl/job/frontend-engineering-manager-react-centra-wroclaw-daxudgxe
+4018	7500	Media Ambassador	wroclaw	Frontend Developer	2021-11-21 10:35:53.12444	2021-11-21 10:35:53.12444	https://nofluffjobs.com/pl/job/frontend-developer-media-ambassador-wroclaw-oswu0c15
+4019	18060	Unity Group	wroclaw	Mobile Front-End/React Native Developer	2021-11-21 10:35:53.12713	2021-11-21 10:35:53.12713	https://nofluffjobs.com/pl/job/mobile-front-end-react-native-developer-unity-group-wroclaw-swztqhod
+4020	18200	Insight (Division of nexergroup.com)	wroclaw	Fullstack Developer - IoT	2021-11-21 10:35:54.252038	2021-11-21 10:35:54.252038	https://nofluffjobs.com/pl/job/fullstack-developer-iot-insight-division-of-nexergroup-com-wroclaw-gu3jfchy
+4021	16000	Ingrid	wroclaw	Mid Frontend Engineer (React)	2021-11-21 10:35:54.25808	2021-11-21 10:35:54.25808	https://nofluffjobs.com/pl/job/mid-frontend-engineer-react-ingrid-wroclaw-uefxyip4
+4022	11500	Hyland	wroclaw	Remote Mid. .Net Developer	2021-11-21 10:35:54.262367	2021-11-21 10:35:54.262367	https://nofluffjobs.com/pl/job/remote-mid-net-developer-hyland-wroclaw-msyh9phj
+4023	14250	Online Solutions Sp. z o.o.	wroclaw	Fullstack .NET Developer	2021-11-21 10:35:54.273885	2021-11-21 10:35:54.273885	https://nofluffjobs.com/pl/job/fullstack-net-developer-online-solutions-wroclaw-6toydk6r
+4024	17000	Recruitee	wroclaw	Frontend Developer with Angular (Senior)	2021-11-21 10:35:54.300421	2021-11-21 10:35:54.300421	https://nofluffjobs.com/pl/job/frontend-developer-with-angular-senior-recruitee-wroclaw-bcpppzpl
+4025	15750	CSHARK Sp. z o.o.	wroclaw	Support Engineer	2021-11-21 10:35:55.259739	2021-11-21 10:35:55.259739	https://nofluffjobs.com/pl/job/support-engineer-cshark-wroclaw-kfkl108r
+4026	16800	Spyrosoft	wroclaw	Frontend Developer (Angular)	2021-11-21 10:35:55.263135	2021-11-21 10:35:55.263135	https://nofluffjobs.com/pl/job/frontend-developer-angular-spyrosoft-wroclaw-mlb71rp9
+4027	6750	Droptica Sp. z o.o.	wroclaw	Junior PHP Developer	2021-11-21 10:35:55.266182	2021-11-21 10:35:55.266182	https://nofluffjobs.com/pl/job/junior-php-developer-droptica-wroclaw-uebwojuh
+4028	13000	Droptica Sp. z o.o.	wroclaw	Fullstack PHP Developer	2021-11-21 10:35:55.269486	2021-11-21 10:35:55.269486	https://nofluffjobs.com/pl/job/fullstack-php-developer-droptica-wroclaw-otgr029c
+4029	21000	OpsTalent	wroclaw	Senior React Developer	2021-11-21 10:35:55.272605	2021-11-21 10:35:55.272605	https://nofluffjobs.com/pl/job/senior-react-developer-opstalent-wroclaw-pzxn7lhi
+4030	12500	McKinsey & Company	wroclaw	Frontend Software Engineer	2021-11-21 10:35:55.277279	2021-11-21 10:35:55.277279	https://nofluffjobs.com/pl/job/frontend-software-engineer-mckinsey-company-wroclaw-hn4o5f5o
+4031	12500	Centra	wroclaw	Web Developer	2021-11-21 10:35:55.297915	2021-11-21 10:35:55.297915	https://nofluffjobs.com/pl/job/web-developer-centra-wroclaw-zij2x8rs
+4032	18480	Divante SA	wroclaw	Remote Angular Developer	2021-11-21 10:35:55.303473	2021-11-21 10:35:55.303473	https://nofluffjobs.com/pl/job/remote-angular-developer-divante-wroclaw-apdfl1qx
+4033	12180	LSI Software S.A.	wroclaw	Frontend Developer (Angular)	2021-11-21 10:35:55.308582	2021-11-21 10:35:55.308582	https://nofluffjobs.com/pl/job/frontend-developer-angular-lsi-software-wroclaw-lftrfelg
+4034	19000	Nobl9	poznan	Software Engineer (Vue.js)	2021-11-21 10:35:57.454581	2021-11-21 10:35:57.454581	https://nofluffjobs.com/pl/job/software-engineer-vue-js-nobl9-poznan-ewnaxkpu
+4035	13000	Egnyte	poznan	JavaScript Engineer (Node.js/React)	2021-11-21 10:35:57.470209	2021-11-21 10:35:57.470209	https://nofluffjobs.com/pl/job/javascript-engineer-node-js-react-egnyte-poznan-wtrcxq2l
+4036	13500	Egnyte	poznan	Frontend Software Engineer	2021-11-21 10:35:57.497758	2021-11-21 10:35:57.497758	https://nofluffjobs.com/pl/job/frontend-software-engineer-egnyte-poznan-aoop2shq
+4037	18500	Egnyte	poznan	Senior Frontend Software Engineer	2021-11-21 10:35:57.501958	2021-11-21 10:35:57.501958	https://nofluffjobs.com/pl/job/senior-frontend-software-engineer-egnyte-poznan-tdjhcas9
+4038	18500	ZieglerLabs	poznan	Fullstack JavaScript Developer	2021-11-21 10:35:57.51307	2021-11-21 10:35:57.51307	https://nofluffjobs.com/pl/job/fullstack-javascript-developer-zieglerlabs-poznan-r0wh71li
+4039	10750	Merixstudio	poznan	Regular JavaScript Developer	2021-11-21 10:35:58.62712	2021-11-21 10:35:58.62712	https://nofluffjobs.com/pl/job/regular-javascript-developer-merixstudio-poznan-aut9ybfx
+4040	8750	Merixstudio	poznan	Regular QA Specialist	2021-11-21 10:35:58.925243	2021-11-21 10:35:58.925243	https://nofluffjobs.com/pl/job/regular-qa-specialist-merixstudio-poznan-miezzw1v
+4041	9500	Emakina.PL	poznan	Regular Web Developer	2021-11-21 10:35:58.947739	2021-11-21 10:35:58.947739	https://nofluffjobs.com/pl/job/regular-web-developer-emakina-pl-poznan-nvuutqeq
+4042	18000	tonik	poznan	Senior Frontend Developer {React}	2021-11-21 10:35:58.974266	2021-11-21 10:35:58.974266	https://nofluffjobs.com/pl/job/senior-frontend-developer-react-tonik-poznan-1sjrpiyi
+4043	17500	Merixstudio	poznan	Senior Node.js Developer	2021-11-21 10:35:59.047912	2021-11-21 10:35:59.047912	https://nofluffjobs.com/pl/job/senior-node-js-developer-merixstudio-poznan-hbopyf0d
+4044	10500	Apptension	poznan	Frontend Developer	2021-11-21 10:36:00.498026	2021-11-21 10:36:00.498026	https://nofluffjobs.com/pl/job/frontend-developer-apptension-poznan-4jxl8fcu
+4045	17000	Profitroom S.A.	poznan	Full Stack Developer	2021-11-21 10:36:00.922511	2021-11-21 10:36:00.922511	https://nofluffjobs.com/pl/job/full-stack-developer-profitroom-poznan-fupq8yx3
+4046	16000	Profitroom S.A.	poznan	Frontend Developer	2021-11-21 10:36:00.927305	2021-11-21 10:36:00.927305	https://nofluffjobs.com/pl/job/frontend-developer-profitroom-poznan-xntm0dau
+4047	19950	Next IT Poland	poznan	Senior .NET Developer	2021-11-21 10:36:00.930295	2021-11-21 10:36:00.930295	https://nofluffjobs.com/pl/job/senior-net-developer-next-it-poland-poznan-ax0ymuso
+4048	19300	OpenSky Data Systems Limited Sp zoo Odd w Polsce	poznan	.NET Team Leader	2021-11-21 10:36:00.975689	2021-11-21 10:36:00.975689	https://nofluffjobs.com/pl/job/net-team-leader-opensky-data-systems-limited-odd-w-polsce-poznan-nenw4gih
+4049	11000	Termedia	poznan	Software Engineer	2021-11-21 10:36:01.002806	2021-11-21 10:36:01.002806	https://nofluffjobs.com/pl/job/software-engineer-termedia-poznan-a26x5x52
+4050	18000	Siepomaga.pl	poznan	Senior Ruby on Rails Developer	2021-11-21 10:36:01.024205	2021-11-21 10:36:01.024205	https://nofluffjobs.com/pl/job/senior-ruby-on-rails-developer-siepomaga-pl-poznan-giszitag
+4051	13000	Siepomaga.pl	poznan	Regular Ruby On Rails Developer	2021-11-21 10:36:01.027793	2021-11-21 10:36:01.027793	https://nofluffjobs.com/pl/job/regular-ruby-on-rails-developer-siepomaga-pl-poznan-crgqjfos
+4052	12000	innovAgile sp. z o. o.	poznan	Frontend Software Engineer (React)	2021-11-21 10:36:02.323958	2021-11-21 10:36:02.323958	https://nofluffjobs.com/pl/job/frontend-software-engineer-react-innovagile-poznan-jvg70bki
+4053	12000	Wunderman Thompson Technology	poznan	Software Engineer	2021-11-21 10:36:02.374696	2021-11-21 10:36:02.374696	https://nofluffjobs.com/pl/job/software-engineer-wunderman-thompson-technology-poznan-a4dbp0vl
+4054	19000	Devire	poznan	Fullstack Developer (React and Node.js)	2021-11-21 10:36:02.377735	2021-11-21 10:36:02.377735	https://nofluffjobs.com/pl/job/fullstack-developer-react-and-node-js-devire-poznan-jb1yok5e
+4055	20000	Devire	poznan	Senior Frontend Developer (React)	2021-11-21 10:36:02.397693	2021-11-21 10:36:02.397693	https://nofluffjobs.com/pl/job/senior-frontend-developer-react-devire-poznan-ozmrwecx
+4056	10750	Merixstudio	poznan	Regular Node.js Developer	2021-11-21 10:36:02.422074	2021-11-21 10:36:02.422074	https://nofluffjobs.com/pl/job/regular-node-js-developer-merixstudio-poznan-s1rsjbk7
+4057	14499	Franklin Templeton	poznan	Software Engineer - Data Science	2021-11-21 10:36:02.425211	2021-11-21 10:36:02.425211	https://nofluffjobs.com/pl/job/software-engineer-data-science-franklin-templeton-poznan-q4ycdk3n
+4058	18000	PANSA	poznan	Senior Back-End/Starszy Specjalista	2021-11-21 10:36:02.428597	2021-11-21 10:36:02.428597	https://nofluffjobs.com/pl/job/senior-back-end-starszy-specjalista-pansa-poznan-rfmszmf6
+4059	22500	Dynatrace Sp. z o.o.	trojmiasto	Principal Frontend Engineer	2021-11-21 10:36:04.64797	2021-11-21 10:36:04.64797	https://nofluffjobs.com/pl/job/principal-frontend-engineer-dynatrace-gdansk-ifctmkvw
+4060	10000	Invarion Inc.	trojmiasto	Junior Javascript Developer	2021-11-21 10:36:04.6757	2021-11-21 10:36:04.6757	https://nofluffjobs.com/pl/job/junior-javascript-developer-invarion-gdansk-1kpnfacl
+4061	11500	VB Polska	trojmiasto	SOFTWARE ENGINEER / BACKEND DEVELOPER	2021-11-21 10:36:04.726978	2021-11-21 10:36:04.726978	https://nofluffjobs.com/pl/job/software-engineer-backend-developer-vb-polska-sopot-biiopfjt
+4062	16500	Grupa Invicta	trojmiasto	Remote Frontend Developer	2021-11-21 10:36:04.780197	2021-11-21 10:36:04.780197	https://nofluffjobs.com/pl/job/remote-frontend-developer-grupa-invicta-sopot-kfduptx3
+4063	15000	Scalac	trojmiasto	Senior React Developer	2021-11-21 10:36:06.025302	2021-11-21 10:36:06.025302	https://nofluffjobs.com/pl/job/senior-react-developer-scalac-gdansk-jgdnxuhs
+4064	12000	Genesis Global Limited	trojmiasto	Front-End Developer	2021-11-21 10:36:06.029413	2021-11-21 10:36:06.029413	https://nofluffjobs.com/pl/job/front-end-developer-genesis-global-limited-gdansk-ksk3zott
+4065	21840	Ework Group	trojmiasto	Frontend Automation Tester	2021-11-21 10:36:06.068417	2021-11-21 10:36:06.068417	https://nofluffjobs.com/pl/job/frontend-automation-tester-ework-group-gdansk-lcig9mmb
+4066	10500	SolveQ	trojmiasto	Remote QA Engineer	2021-11-21 10:36:06.080219	2021-11-21 10:36:06.080219	https://nofluffjobs.com/pl/job/remote-qa-engineer-solveq-gdynia-1fw2ufqf
+4067	9500	Genesis Global Limited	trojmiasto	UI Tester	2021-11-21 10:36:06.126879	2021-11-21 10:36:06.126879	https://nofluffjobs.com/pl/job/ui-tester-genesis-global-limited-gdansk-dpeawubf
+4068	16000	Solwit SA	trojmiasto	Remote React Developer	2021-11-21 10:36:06.172079	2021-11-21 10:36:06.172079	https://nofluffjobs.com/pl/job/remote-react-developer-solwit-gdansk-jfjawioy
+4069	8000	Volue	trojmiasto	Fullstack .NET Developer(Volue Platform)	2021-11-21 10:36:07.319839	2021-11-21 10:36:07.319839	https://nofluffjobs.com/pl/job/fullstack-net-developer-volue-platform-volue-gdansk-s7rj2hak
+4070	22260	Devire Sp. z o.o.	trojmiasto	Remote React Developer	2021-11-21 10:36:07.347903	2021-11-21 10:36:07.347903	https://nofluffjobs.com/pl/job/remote-react-developer-devire-gdynia-ivmviyfn
+4071	17500	Widelab Development	trojmiasto	Remote Frontend Developer Angular/React	2021-11-21 10:36:07.399187	2021-11-21 10:36:07.399187	https://nofluffjobs.com/pl/job/remote-frontend-developer-angular-react-widelab-development-gdansk-8pualbjz
+4072	19250	No Fluff Jobs	trojmiasto	Senior Angular Developer	2021-11-21 10:36:07.42304	2021-11-21 10:36:07.42304	https://nofluffjobs.com/pl/job/senior-angular-developer-no-fluff-jobs-gdynia-6qsnlhhu
+4073	14500	Infoprojekt sp. z o. o.	trojmiasto	Frontend Developer	2021-11-21 10:36:07.475819	2021-11-21 10:36:07.475819	https://nofluffjobs.com/pl/job/frontend-developer-infoprojekt-gdansk-rs5eq5u7
+4074	11250	Scalac	trojmiasto	Frontend Developer (internal project)	2021-11-21 10:36:07.518812	2021-11-21 10:36:07.518812	https://nofluffjobs.com/pl/job/frontend-developer-internal-project-scalac-gdansk-i5rfdsxc
+4075	9500	Coditive	trojmiasto	Remote Frontend WordPress Developer	2021-11-21 10:36:08.576197	2021-11-21 10:36:08.576197	https://nofluffjobs.com/pl/job/remote-frontend-wordpress-developer-coditive-gdansk-1hi5ovto
+4076	15500	Grupa Invicta	trojmiasto	Remote Fullstack Python Developer	2021-11-21 10:36:08.597838	2021-11-21 10:36:08.597838	https://nofluffjobs.com/pl/job/remote-fullstack-python-developer-grupa-invicta-sopot-iqnybvc0
+4077	0	Acaisoft Poland Sp. z o.o.	trojmiasto	Trainee React Developer	2021-11-21 10:36:08.624852	2021-11-21 10:36:08.624852	https://nofluffjobs.com/pl/job/trainee-react-developer-acaisoft-poland-gdynia-f7pjtxoo
+4078	16000	AS-PL Sp. z o.o.	trojmiasto	Mid/Senior React Developer	2021-11-21 10:36:08.670869	2021-11-21 10:36:08.670869	https://nofluffjobs.com/pl/job/mid-senior-react-developer-as-pl-gdansk-217pyz5y
+4079	13400	Solwit SA	trojmiasto	Frontend Developer (Angular 8+)	2021-11-21 10:36:08.677149	2021-11-21 10:36:08.677149	https://nofluffjobs.com/pl/job/frontend-developer-angular-8-solwit-gdansk-ngtx7bhc
+4080	12000	Genesis Global Limited	trojmiasto	Front-End JS Developer	2021-11-21 10:36:10.197702	2021-11-21 10:36:10.197702	https://nofluffjobs.com/pl/job/front-end-js-developer-genesis-global-limited-gdansk-w04fqeaa
+4081	10000	See My Model sp. z o.o.	trojmiasto	Frontend Developer	2021-11-21 10:36:10.221624	2021-11-21 10:36:10.221624	https://nofluffjobs.com/pl/job/frontend-developer-see-my-model-gdansk-oisz6dy1
+4082	14000	Furgonetka Sp. z o. o. Sp. k.	trojmiasto	Regular/Senior Reavt Developer	2021-11-21 10:36:10.225475	2021-11-21 10:36:10.225475	https://nofluffjobs.com/pl/job/regular-senior-reavt-developer-furgonetka-sp-k-gdansk-zxgtqp24
+4083	11650	Jamf Software poland Sp. z o.o.	katowice	Web Developer II	2021-11-21 10:36:12.170355	2021-11-21 10:36:12.170355	https://nofluffjobs.com/pl/job/web-developer-ii-jamf-software-poland-katowice-9flmf4xl
+4084	9000	tabelaofert.pl	katowice	Junior Fullstack PHP Developer	2021-11-21 10:36:12.174822	2021-11-21 10:36:12.174822	https://nofluffjobs.com/pl/job/junior-fullstack-php-developer-tabelaofert-pl-katowice-0eokdfkt
+4085	5500	Software Things	katowice	Front-end developer – 6h dzień pracy	2021-11-21 10:36:12.178849	2021-11-21 10:36:12.178849	https://nofluffjobs.com/pl/job/front-end-developer-6h-dzien-pracy-software-things-katowice-ocdznmmw
+4086	15600	relayr sp. z o.o.	katowice	Fullstack Developer	2021-11-21 10:36:12.428521	2021-11-21 10:36:12.428521	https://nofluffjobs.com/pl/job/fullstack-developer-relayr-katowice-of4w9x8c
+4087	13500	AUTO1 Group	katowice	JavaScript Engineer	2021-11-21 10:36:12.448231	2021-11-21 10:36:12.448231	https://nofluffjobs.com/pl/job/javascript-engineer-auto1-group-katowice-v532mlkp
+4088	13500	Voucherify	katowice	Fullstack JavaScript Developer	2021-11-21 10:36:12.499217	2021-11-21 10:36:12.499217	https://nofluffjobs.com/pl/job/fullstack-javascript-developer-voucherify-katowice-f6nwo1c6
+4089	22000	Comernal Software Sp. z o.o.	katowice	Senior Frontend Developer	2021-11-21 10:36:12.522002	2021-11-21 10:36:12.522002	https://nofluffjobs.com/pl/job/senior-frontend-developer-comernal-software-katowice-huswkkls
+4090	17500	Shiji Poland	katowice	Site Reliability Engineer	2021-11-21 10:36:12.525251	2021-11-21 10:36:12.525251	https://nofluffjobs.com/pl/job/site-reliability-engineer-shiji-poland-katowice-pzhcl2qx
+4091	22500	AUTO1 Group	katowice	Senior JavaScript Engineer	2021-11-21 10:36:13.678978	2021-11-21 10:36:13.678978	https://nofluffjobs.com/pl/job/senior-javascript-engineer-auto1-group-katowice-kfdyakmr
+4092	5000	KAMSOFT S.A.	katowice	Junior Java Developer	2021-11-21 10:36:13.700786	2021-11-21 10:36:13.700786	https://nofluffjobs.com/pl/job/junior-java-developer-kamsoft-katowice-d0wb7zlp
+4093	18000	Hyland	katowice	Remote Senior Frontend Developer	2021-11-21 10:36:13.772396	2021-11-21 10:36:13.772396	https://nofluffjobs.com/pl/job/remote-senior-frontend-developer-hyland-katowice-fphrurml
+4094	22250	Comernal Software Sp. z o.o.	katowice	Senior Test Automation Engineer	2021-11-21 10:36:13.777478	2021-11-21 10:36:13.777478	https://nofluffjobs.com/pl/job/senior-test-automation-engineer-comernal-software-katowice-xoqeeqfz
+4095	12500	iteo sp. z o.o.	katowice	Frontend Developer	2021-11-21 10:36:13.780473	2021-11-21 10:36:13.780473	https://nofluffjobs.com/pl/job/frontend-developer-iteo-katowice-llwimeus
+4096	8000	3Soft S.A.	katowice	Software Developer	2021-11-21 10:36:13.818583	2021-11-21 10:36:13.818583	https://nofluffjobs.com/pl/job/software-developer-3soft-katowice-ney2a7f6
+4097	20000	Fanadise	slask	Remote Senior React Developer	2021-11-21 10:36:18.371983	2021-11-21 10:36:18.371983	https://nofluffjobs.com/pl/job/remote-senior-react-developer-fanadise-bielskobiala-n4n3tvhq
+4098	10000	Fronius	slask	Frontend Developer	2021-11-21 10:36:18.501136	2021-11-21 10:36:18.501136	https://nofluffjobs.com/pl/job/frontend-developer-fronius-gliwice-lnat1e1n
+4099	15490	SoftServe	slask	Senior Fullstack Node Engineer	2021-11-21 10:36:19.579448	2021-11-21 10:36:19.579448	https://nofluffjobs.com/pl/job/senior-fullstack-node-engineer-softserve-gliwice-e1rxfseo
+4100	19500	co.brick	slask	Senior Frontend  (React/Redux)	2021-11-21 10:36:19.625645	2021-11-21 10:36:19.625645	https://nofluffjobs.com/pl/job/senior-frontend-react-redux-co-brick-gliwice-yhv5yd6r
+4101	19500	co.brick	slask	Frontend Developer (Angular)	2021-11-21 10:36:19.629238	2021-11-21 10:36:19.629238	https://nofluffjobs.com/pl/job/frontend-developer-angular-co-brick-gliwice-tjmespyh
+4102	25500	co.brick	slask	Technical Lead .Net	2021-11-21 10:36:20.62341	2021-11-21 10:36:20.62341	https://nofluffjobs.com/pl/job/technical-lead-net-co-brick-gliwice-g2x2olin
+4103	12500	ista Shared Sevices Polska	slask	.NET Developer	2021-11-21 10:36:20.651508	2021-11-21 10:36:20.651508	https://nofluffjobs.com/pl/job/net-developer-ista-shared-sevices-polska-gliwice-qvynn2yv
+4104	13000	Partner Rozwoju Doradztwo Rekrutacyjne	slask	Frontend Developer	2021-11-21 10:36:20.670962	2021-11-21 10:36:20.670962	https://nofluffjobs.com/pl/job/frontend-developer-partner-rozwoju-doradztwo-rekrutacyjne-bielskobiala-ecs1ivmi
+4105	21000	LETHE Jakub Chmielniak	slask	Remote Senior React Developer	2021-11-21 10:36:20.674331	2021-11-21 10:36:20.674331	https://nofluffjobs.com/pl/job/remote-senior-react-developer-lethe-jakub-chmielniak-bielskobiala-hl2lg8nz
+4106	9750	autoDNA	lodz	Frontend Developer	2021-11-21 10:36:22.950797	2021-11-21 10:36:22.950797	https://nofluffjobs.com/pl/job/frontend-developer-autodna-lodz-yxvhufsi
+4107	11500	Tellyo Oy Sp. z o.o. Oddział w Polsce	lodz	Frontend Developer	2021-11-21 10:36:22.978808	2021-11-21 10:36:22.978808	https://nofluffjobs.com/pl/job/frontend-developer-tellyo-oy-oddzial-w-polsce-lodz-ksoya1sy
+4108	21500	HTD Health	lodz	Senior JavaScript Developer 🏝 on B2B	2021-11-21 10:36:23.020996	2021-11-21 10:36:23.020996	https://nofluffjobs.com/pl/job/senior-javascript-developer-on-b2b-htd-health-lodz-l6wwkv9m
+4109	12500	Devire	lodz	Junior Frontend Developer	2021-11-21 10:36:23.024811	2021-11-21 10:36:23.024811	https://nofluffjobs.com/pl/job/junior-frontend-developer-devire-lodz-fhd7uioc
+4110	21525	DNA Technology	lodz	Experienced React Engineer	2021-11-21 10:36:23.030344	2021-11-21 10:36:23.030344	https://nofluffjobs.com/pl/job/experienced-react-engineer-dna-technology-lodz-zgq0qsit
+4111	6925	LSI Software S.A.	lodz	Tester API	2021-11-21 10:36:23.971435	2021-11-21 10:36:23.971435	https://nofluffjobs.com/pl/job/tester-api-lsi-software-lodz-kdfe4kew
+4112	24360	Devire	lodz	Senior Angular Developer	2021-11-21 10:36:23.980679	2021-11-21 10:36:23.980679	https://nofluffjobs.com/pl/job/senior-angular-developer-devire-lodz-nlagwgom
+4113	14500	HTD Health 🏥	lodz	React Developer 🔥 🏝 on B2B	2021-11-21 10:36:24.018918	2021-11-21 10:36:24.018918	https://nofluffjobs.com/pl/job/react-developer-on-b2b-htd-health-lodz-hwzr7saf
+4114	12600	Netbulls Sp. z o.o.	bialystok	Middle Frontend Developer	2021-11-21 10:36:26.223012	2021-11-21 10:36:26.223012	https://nofluffjobs.com/pl/job/middle-frontend-developer-netbulls-bialystok-i2ifmdb5
+4115	8000	Sempai	bialystok	WordPress Developer	2021-11-21 10:36:26.249105	2021-11-21 10:36:26.249105	https://nofluffjobs.com/pl/job/wordpress-developer-sempai-bialystok-uzpocbhc
 \.
 
 
@@ -3783,7 +4237,7 @@ COPY public.schema_migrations (version) FROM stdin;
 -- Name: job_offers_id_seq; Type: SEQUENCE SET; Schema: public; Owner: michal
 --
 
-SELECT pg_catalog.setval('public.job_offers_id_seq', 3661, true);
+SELECT pg_catalog.setval('public.job_offers_id_seq', 4115, true);
 
 
 --
