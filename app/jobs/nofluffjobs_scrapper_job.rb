@@ -1,4 +1,4 @@
-class ScrapperJob < ApplicationJob
+class NofluffjobsScrapperJob < ApplicationJob
 
   def perform
     JobOffer::CITIES.each do |city|
