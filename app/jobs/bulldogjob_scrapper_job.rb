@@ -1,4 +1,4 @@
-class BuldogjobScrapperJob < ApplicationJob
+class BulldogjobScrapperJob < ApplicationJob
   def perform
     url = 'https://bulldogjob.com/companies/jobs/s/skills,JavaScript'
     first_page = Nokogiri::HTML(HTTParty.get(url))
@@ -17,7 +17,12 @@ class BuldogjobScrapperJob < ApplicationJob
         link: offer[:href],
         title: offer.css('.title h3').text.gsub!(/\n/, ''),
         city: offer.css('.location').text.strip.downcase,
-        salary: mean_salary(offer.css('.salary').text)}
+        salary: mean_salary(offer.css('.salary').text),
+        origin: 'bulldogjob'
+      }
+      next if JobOffer.todays_offers.find_by(title: offer_details[:title], company: offer_details[:company])
+
+      JobOffer.create(offer_details)
     end
   end
 

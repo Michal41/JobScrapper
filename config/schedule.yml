@@ -1,3 +1,7 @@
-retrive_new_emails:
+nofluffjobs_scrapper:
   cron: "0 0 * * *"
   class: "NofluffjobsScrapperJob"
+
+bulldogjob_scrapper:
+  cron: "1 0 * * *"
+  class: "BulldogjobScrapperJob"
