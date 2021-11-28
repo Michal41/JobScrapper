@@ -29,7 +29,7 @@ module MeanSalary
     end
 
     def days_to_calculate
-      ((Time.zone.now - calucale_from).to_i / 86_400) + 1
+      (Time.zone.now - calucale_from).to_i / 86_400
     end
   end
 end
