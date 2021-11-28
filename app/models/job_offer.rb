@@ -5,6 +5,7 @@ class JobOffer < ApplicationRecord
               bydgoszcz gliwice gliwice szczecin sopot].freeze
 
   enum origin: %i[nofluffjobs bulldogjob]
+  enum seniority: %i[junior mid senior]
 
   def self.todays_offers(city = nil)
     query = { created_at: Time.zone.now.beginning_of_day..Time.zone.now.end_of_day }

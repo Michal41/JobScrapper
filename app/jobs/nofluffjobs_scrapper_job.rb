@@ -23,7 +23,8 @@ class NofluffjobsScrapperJob < ApplicationJob
         company: job_listing.css('.posting-title__company').text.gsub(' @ ', '').strip,
         city: city,
         salary: mean_salary(job_listing.css('.salary').text),
-        link: "https://nofluffjobs.com#{job_listing[:href]}"
+        link: "https://nofluffjobs.com#{job_listing[:href]}",
+        seniority: get_seniority_level("https://nofluffjobs.com#{job_listing[:href]}")
       }
       puts job
       next if JobOffer.todays_offers.find_by(title: job[:title], company: job[:company])
@@ -41,5 +42,21 @@ class NofluffjobsScrapperJob < ApplicationJob
     return 0 if parsed_page.css('.page-link')[-2].nil?
 
     parsed_page.css('.page-link')[-2].text.strip.to_i
+  end
+
+  def get_seniority_level(url)
+    response = Nokogiri::HTML(HTTParty.get(url))
+    map_values(response.css('.px-20 span').last.text.split(',').first.downcase.strip)
+  end
+
+  def map_values(seniority_level)
+    case seniority_level
+    when 'expert'
+      'senior'
+    when 'trainee'
+      'junior'
+    else
+      seniority_level
+    end
   end
 end
