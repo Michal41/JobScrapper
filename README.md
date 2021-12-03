@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 
 ## General info
-Application gathering job offers for javaScript developers in Poland and present data. To gather data. The data is collected via cron jobs run by background job runner: **sidekiq**.
+Application gathering job offers for javaScript developers in Poland and present data. The data is collected via cron jobs run by background job runner: **sidekiq**.
 
 
 ## Technologies
