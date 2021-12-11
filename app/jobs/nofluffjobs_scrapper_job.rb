@@ -8,10 +8,14 @@ class NofluffjobsScrapperJob < ApplicationJob
 
   def scrap_city(city)
     url = "https://nofluffjobs.com/pl/praca-it/#{city}/javascript"
-    first_page = Nokogiri::HTML(HTTParty.get(url))
+    browser = Watir::Browser.new
+    browser.goto(url)
+    first_page = Nokogiri::HTML(browser.body.inner_html)
+
     (1..total_pages(first_page)).each do |page|
       page_url = "#{url}?page=#{page}"
-      scrap_page(Nokogiri::HTML(HTTParty.get(page_url)), city)
+      browser.goto(page_url)
+      scrap_page(Nokogiri::HTML(browser.body.inner_html), city)
     end
   end
 
