@@ -7,6 +7,7 @@ class SalariesController < ApplicationController
     @mean_salary_per_seniority = mean_salary_per_seniority
     @junior_demand = Seniority.all.pluck(:date, :junior)
     @senior_demand = Seniority.all.pluck(:date, :senior)
+    @mean_time_of_exposure = OfferLifeCycles::Index.call.result
   end
 
   private
