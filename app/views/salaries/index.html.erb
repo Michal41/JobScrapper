@@ -1,5 +1,7 @@
-<h2 class="chart-title"> Mean Salary chart </h2>
-<div class="chart-container"><%= line_chart @salary_data %></div>
+
+<br />
+<br />
+<h2 class="chart-title"> Today's job offers </h2>
 
 
 <h2 class="chart-title"> Seniority demand comparsion </h2>
@@ -8,4 +10,26 @@
 
 <h2 class="chart-title"> Salary per seniority level </h2>
 <div class="chart-container"><%= bar_chart @mean_salary_per_seniority %></div>
+
+<br />
+<br />
+<h2 class="chart-title"> Data on offers over time based on <%= JobOffer.all.count %> records </h2>
+
+<h2 class="chart-title"> Mean Salary chart </h2>
+<div class="chart-container"><%= line_chart @salary_data %></div>
+
+<h2 class="chart-title"> Mean Junior Salary chart </h2>
+<div class="chart-container"><%= line_chart @junior_salary_data %></div>
+
+
+<h2 class="chart-title"> Junior demand ratio </h2>
+<div class="chart-container"><%= line_chart @junior_demand, xtitle: "Time", ytitle: "Junior depand %" %></div>
+
+<h2 class="chart-title"> Senior demand ratio </h2>
+<div class="chart-container"><%= line_chart @senior_demand, xtitle: "Time", ytitle: "Senior depand %" %></div>
+
+
+<h2 class="chart-title"> Mean time of offer exposure: <%= @mean_time_of_exposure  %> </h2>
+<br />
+<br />
 

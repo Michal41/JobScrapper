@@ -7,6 +7,8 @@ class JobOffer < ApplicationRecord
   enum origin: %i[nofluffjobs bulldogjob]
   enum seniority: %i[junior mid senior]
 
+  scope :with_seniority, -> { where.not(seniority: nil) }
+
   def self.todays_offers(city = nil)
     query = { created_at: Time.zone.now.beginning_of_day..Time.zone.now.end_of_day }
     city.present? && query = query.merge({ city: city })
